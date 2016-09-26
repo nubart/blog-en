@@ -27,7 +27,7 @@ url: "http://www.nubart.eu"
 navigation:
 - text: Inicio
   url: /
-- text: Web Nubart
+- text: Web
   url: /about/
 - text: Archives
   url: /etiquetas/
