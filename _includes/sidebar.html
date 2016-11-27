@@ -9,7 +9,7 @@
 
     {% if site.mailchimp_url %}
     <section class="widget widget-newsletter">
-        <h2 class="widget-title">Newsletter {{ site.title}}</h2>
+        <h2 class="widget-title">Newsletter</h2>
         <!-- Begin MailChimp Signup Form -->
         <div id="mc_embed_signup">
             <form action="{{ site.mailchimp_url }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -43,7 +43,7 @@
     {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
     {% assign sortedTags = site_tags | split:',' | sort %}
     <section class="widget widget-tags">
-        <h2 class="widget-title">Eiquetas</h2>
+        <h2 class="widget-title">Etiquetas</h2>
         <div class="tagcloud">
             {% for tag in sortedTags %}
             <a href="{{site.baseurl}}/tags/#{{ tag | cgi_escape }}">{{ tag }}</a>
