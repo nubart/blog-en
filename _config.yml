@@ -9,10 +9,10 @@
 title: "El blog de Nubart"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "Nubart es la audioguía que te puedes llevar. En este blog te hablaremos de museos, de soluciones tecnológicas, de nuestras exposicioens y de nuestro anecdotario cotidiano."
+description: "Nubart es la audioguÃŒa que te puedes llevar. En este blog te hablaremos de museos, de soluciones tecnolÃ›gicas, de nuestras exposicioens y de nuestro anecdotario cotidiano."
 
 # Tagline near the site title
-tagline: "La audioguía que te puedes llevar"
+tagline: "La audioguÃŒa que te puedes llevar"
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl: /blog
@@ -37,7 +37,7 @@ disqus: "nubart"
 
 # Author information - author info at the bottom of the post
 author_name: "Rosa"
-author_bio: "Rosa es la co-fundadora de Digital Tangible SL, la empresa que ideó Nubart."
+author_bio: "Rosa es la co-fundadora de Digital Tangible SL, la empresa que ideÃ› Nubart."
 author_image: /images/rosa-sala.jpg
 
 # Sidebar Add banner
