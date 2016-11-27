@@ -9,10 +9,10 @@
 title: "El blog de Nubart"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "Nubart es la audioguÌa que te puedes llevar. En este blog te hablaremos de museos, de soluciones tecnolÛgicas, de nuestras exposicioens y de nuestro anecdotario cotidiano."
+description: "Nubart es la audioguía que te puedes llevar. En este blog te hablaremos de museos, de soluciones tecnológicas, de nuestras exposiciones y de nuestro anecdotario cotidiano."
 
 # Tagline near the site title
-tagline: "La audioguÌa que te puedes llevar"
+tagline: "La audioguía que te puedes llevar"
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl: /blog
@@ -37,12 +37,12 @@ disqus: "nubart"
 
 # Author information - author info at the bottom of the post
 author_name: "Rosa"
-author_bio: "Rosa es la co-fundadora de Digital Tangible SL, la empresa que ideÛ Nubart."
+author_bio: "Rosa es la co-fundadora de Digital Tangible SL, la empresa que ideó Nubart."
 author_image: /images/rosa-sala.jpg
 
 # Sidebar Add banner
-banner_url: "http://justgoodthemes.com"
-banner_image: images/banner.jpg
+banner_url: "http://www.nubart.eu/"
+banner_image: images/muestra-audioguia-nubart-con-auriculares.jpg
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "//seebook.us7.list-manage.com/subscribe/post?u=b630182f489a9aa406cb122cf&amp;id=7ebd16ce5e"
