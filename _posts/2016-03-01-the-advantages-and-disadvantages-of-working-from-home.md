@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "The Advantages & Disadvantages of Working from Home"
+title:  "Cómo hacer que los visitantes difundan tu exposición en Twitter"
 date:   2016-03-01
-banner_image: Desk.jpg
+banner_image: blog-tuitea-esto.jpg
 tags: [tips, work]
 ---
 
-A work at home parent is an entrepreneur who works from home and integrates parenting into his or her business activities. They are sometimes referred to as a WAHM *(work at home mom)* or a WAHD *(work at home dad)*.
+En un mundo cada vez más saturado de ofertas culturales, a menudo lo único que nos lleva a ver una exposición es la recomendación de un amigo o conocido. Como es bien sabido, en el mundo virtual ese ansiado boca a oreja se efectúa a través de las redes sociales. Entretante ya parece haber consenso en que impedir la entrada de teléfonos móviles a una exposición para evitar molestias o fotos clandestinas es una batalla perdida. Por lo tanto, ¿qué mejor que hacer de la necesidad virtud y aprovechar esta situación para que, al menos, los visitantes empleen sus móviles para difundir los contenidos de nuestros museos?
+
+ A work at home parent is an entrepreneur who works from home and integrates parenting into his or her business activities. They are sometimes referred to as a WAHM *(work at home mom)* or a WAHD *(work at home dad)*.
 
 Entrepreneurs choose to run businesses from home for a variety of reasons, including lower business expenses, personal health limitations, eliminating commuting, or in order to have a more flexible schedule. This flexibility can give an entrepreneur more options when planning tasks, business and non-business, including parenting duties. While some home-based entrepreneurs opt for childcare outside the home,[1] others integrate child rearing into their work day and workspace. The latter are considered work-at-home parents.
 
