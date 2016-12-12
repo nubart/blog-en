@@ -29,7 +29,7 @@ navigation:
   url: /
 - text: Web
   url: http://www.nubart.eu/
-- text: Archives
+- text: Archivo
   url: /etiquetas/
 
 # The shortname for your Disqus site to enable comments.
