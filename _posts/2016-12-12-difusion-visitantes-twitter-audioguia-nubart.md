@@ -40,7 +40,7 @@ Naturalmente, el visitante de la exposición tendrá la libertad de enviar el tu
 
 ![Tuit terminado]({{site.baseurl}}/images/posts/tuit-terminado.jpg){: .center-image }
 
-El botón de "tuitea esto" junto a un contenido no es una invención nuestra, pero consideramos que añadirlo a la funcionalidad de una audioguía, en diferentes idiomas y con imagen incorporada, constituye un enfoque innovador que convierte a la audioguía en un intrumento de difusión de primer orden, trascendiendo su dimensión meramente pedagógica.
+El botón de "tuitea esto" junto a un contenido no es una invención nuestra, pero consideramos que añadirlo a la funcionalidad de una audioguía, en diferentes idiomas y con imagen incorporada, constituye un enfoque innovador que convierte a la audioguía en un intrumento de difusión de primer orden, trascendiendo su dimensión meramente pedagógica. Por otro lado, **nuestros tuits preconfigurados no están automatizados**, sino realizados a mano por nuestro equipo, incorporando la imagen adecuada y buscando siempre el texto más oportuno.
 
 Y el caso es que ¡funciona! Las pruebas efectuadas hasta el momento nos demuestran que es una funcionalidad bien recibida y utilizada por los visitantes, de modo que seguiremos innovando en esta dirección.
 
