@@ -7,7 +7,7 @@ title:  "¿Seguro que tu museo no tiene Wifi?"
 description: "Si tu museo aún no tiene Wifi para los visitantes, quizá puedas remediarlo ampliando el internet de tus oficinas mediante la tecnología PLC"
 slug: "museo-no-tiene-wifi"
 date:   2017-03-29
-banner_image: devolo-pro.jpg
+banner_image: devolo-pro2.jpg
 tags: [wifi, museos, PLC, conexión de datos]
 ---
 
@@ -25,11 +25,11 @@ Actualmente la tecnología PLC (Power Line Communication) consigue resultados as
 
 Los museos son estructuras complejas y sabemos por experiencia que el cableado puede ser un misterio incluso para su director o su encargado de mantenimiento. Seguramente tendrás que comprar los aparatos y hacer una prueba empírica para saber si el cableado de tu museo es el adecuado para la tecnología PLC y puede que acabes adquiriendo los aparatos en vano. Pero no te preocupes, si estás considerando adquirir nuestra audioguía y tu museo se encuentra en territorio español, en Nubart podemos ayudarte. Acudiremos a tu museo con nuestros aparatos profesionales de fabricación alemana, gran calidad y alto rendimiento, y comprobaremos **si la solución PLC es aplicable** a tu caso. En caso afirmativo, calcularemos la cantidad de extensores necesarios para cubrir adecuadamente todo tu espacio de exposición y te prepararemos un informe. 
 
-![Ejemplo de nuestro diagnóstico wifi]({{site.baseurl}}/images/posts/diagnostico-wifi-nubart.jpg){: .center-image }
+![Ejemplo de nuestro diagnóstico wifi]({{site.baseurl}}/images/posts/diagnostico-wifi-nubart.png){: .center-image }
 
 También nos aseguraremos de que la intensidad de la señal sea la adecuada para que tus visitantes puedan **emplear la audioguía Nubart cómodamente.** Por último, te asesoraremos para configurar adecuadamente la red Wifi para tus visitantes, o nos encargaremos directamente de ello después de evaluar contigo las distintas posibilidades. Si en nuestra visita comprobáramos que el sistema no es viable para tu museo, no tendrás que pagarnos absolutamente nada. Y si nos encargas una audioguía, **el servicio de diagnóstico y configuración de tu Wifi será totalmente gratis:** sólo te cobraremos los aparatos que haya que instalar. Y no te preocupes, no perderás ningún enchufe, ya que empleamos aparatos con regleta incorporada.
 
-![Nuestros aparatos PLC]({{site.baseurl}}/images/posts/devolo-pro.jpg){: .center-image }
+![Nuestros aparatos PLC]({{site.baseurl}}/images/posts/devolo-pro2.jpg){: .center-image }
 
 ¿Te interesa? Pues [envíanos un email](info@nubart.eu) y lo hablamos. 
 
