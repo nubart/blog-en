@@ -15,7 +15,7 @@ description: "Nubart es la audioguía que te puedes llevar. En este blog te habl
 tagline: "La audioguía que te puedes llevar"
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: /blog
+baseurl: /blog-en
 
 sass:
   sass_dir: _sass
@@ -33,7 +33,7 @@ navigation:
   url: /etiquetas/
 
 # The shortname for your Disqus site to enable comments.
-disqus: "nubart"
+disqus: "nubart-en"
 
 # Author information - author info at the bottom of the post
 author_name: "Rosa"
