@@ -26,7 +26,7 @@ url: "http://www.nubart.eu"
 # Site navigation - each item must have a title and a url.
 navigation:
 - text: Home
-  url: /
+  url: http://www.nubart.eu/blog-en/
 - text: Web
   url: http://www.nubart.eu/en/
 - text: Archives
