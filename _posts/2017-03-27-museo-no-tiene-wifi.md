@@ -1,5 +1,7 @@
 ---
-author: Rosa
+author_name: Steve Zitkovich
+author_bio: Steve is Nubart's director international
+author_location: Frankfurt
 layout: post
 comments: true
 published: true

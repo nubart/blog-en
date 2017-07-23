@@ -1,9 +1,9 @@
 <aside class="sidebar">
 
-    {% if site.author_bio and site.author_name %}
+    {% if page.author_bio and page.author_name %}
     <section class="widget widget-text">
-        <h2 class="widget-title">About {{ site.author_name }}</h2>
-        <p>{{ site.author_bio }}</p>
+        <h2 class="widget-title">About {{ page.author_name }}</h2>
+        <p>{{ page.author_bio }}</p>
     </section><!-- .widget-text -->
     {% endif %}
 

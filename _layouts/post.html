@@ -15,7 +15,7 @@ layout: default
                         <h1 class="entry-title">{{page.title}}</h1>
                     </div><!-- .entry-header-wrap -->
                     <div class="entry-meta">
-                        by <span class="post-author">{{site.author_name}}</span> on <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+                        by <span class="post-author">{{page.author_name}}</span> on <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time>
                     </div><!-- .entry-meta -->
                 </header><!-- .entry-header -->
                 <div class="entry-content">
@@ -37,12 +37,11 @@ layout: default
             </article><!-- .post -->
             <div class="author-box">
                 <div class="author-info">
-                    <div class="author-avatar" style="background-image: url({{ site.author_image }})"><span class="screen-reader-text">{{ site.author_name }}'s Picture</span></div>
+                    <div class="author-avatar" style="background-image: url({{ site.author_image }})"><span class="screen-reader-text">{{ page.author_name }}'s Picture</span></div>
                     <div class="author-details">
-                        <h2 class="author-title">About {{ site.author_name }}</h2>
-                        <p class="author-bio">{{ site.author_bio }}</p>
-                        <span class="author-location"><i class="fa-map-marker" aria-hidden="true"></i> {{ site.author_location }}</span>
-                        <span class="author-website"><i class="fa-chain" aria-hidden="true"></i> <a href="{{ site.author_url }}" target="_blank"> {{ site.author_url }}</a></span>
+                        <h2 class="author-title">About {{ page.author_name }}</h2>
+                        <p class="author-bio">{{ page.author_bio }}</p>
+                        <span class="author-location"><i class="fa-map-marker" aria-hidden="true"></i> {{ page.author_location }}</span>
                     </div><!-- .author-details -->
                 </div><!-- .author-info -->
             </div><!-- .author-box -->
