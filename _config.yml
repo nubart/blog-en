@@ -28,7 +28,7 @@ navigation:
 - text: Home
   url: /
 - text: Web
-  url: http://www.nubart.eu/
+  url: http://www.nubart.eu/en/
 - text: Archives
   url: /tags/
 
