@@ -1,7 +1,7 @@
 ---
-author_name: Steve Zitkovich
-author_bio: Steve is Nubart's director international
-author_location: Frankfurt
+author_name: Rosa Sala
+author_bio: Rosa is Nubart's CEO and co-founder
+author_location: Berlin
 layout: post
 comments: true
 published: true
