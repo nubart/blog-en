@@ -15,12 +15,14 @@ tags: [multilingual, audio guides, apps, international, tourism, social media]
 
 More people are travelling internationally than ever; the numbers of trips is increasing by millions each year. Just one example:
 
-![Statistic about Chinese visitors in Europe](/images/posts/chinese-visitors-stats.png)
+![Statistic about Chinese visitors in Europe]({{site.baseurl}}/images/posts/chinese-visitors-stats.png){: .center-image }
 
 With the increase of tourism there is a corresponding increase in museum visits from foreign countries. Again, there are numerous studies, but a good example is the Mercedes-Benz Museum in Stuttgart report about 2015 (from [Daimler press release](http://media.daimler.com/marsMediaSite/en/instance/ko/2015---the-year-in-review-Very-strong-increase-in-visitors-to-the-Mercedes-Benz-Museum.xhtml?oid=9919082)): 
   
 * The number of international guests... increased up to 43 percent; 
 * In July 2015 more than 55 percent of visitors travelled from abroad during this summer month. 
+
+<!--more-->
 
 One of the beauties of an audio guide is that it can educate and enriches the museum visit, and this is especially valuable to international travellers. However, an audio guide in English is still intimidating for many non-native speakers.
 
