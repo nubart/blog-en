@@ -13,7 +13,7 @@ banner_image: asian-visitors-at-the-metropolitan.jpg
 tags: [multilingual, audio guides, apps, international, tourism, social media]
 ---
 
-More people are travelling internationally than ever; the numbers of trips is increasing by millions each year. Just one example:
+More people are travelling internationally than ever; the number of trips is increasing by millions each year. Just one example:
 
 ![Statistic about Chinese visitors in Europe]({{site.baseurl}}/images/posts/chinese-visitors-stats.png){: .center-image }
 
@@ -38,7 +38,7 @@ Yet, since audio guides are all about making richer, more educational and satisf
 
 In my view, museums should not want to be in the business of managing translations and multilingual voice-overs. If a museum hosts its own multilingual content, it will spend a lot of time producing it (translations + voiceovers) and coordinating updates. If it does not coordinate updates, its content will become stale and unloved by international visitors.
 
-So, following customer demand, let’s move away from unwieldy, inefficient apps and stand alone devices, but keep in mind offering and managing multilingual audio guides! Specialists can do it very efficiently!
+So, following customer demand, let’s move away from unwieldy, inefficient apps and stand-alone devices, but keep in mind offering and managing multilingual audio guides! Specialists can do them very efficiently!
 
 **Steve Zitkovich**
 
