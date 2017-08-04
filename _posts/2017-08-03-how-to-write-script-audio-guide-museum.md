@@ -49,7 +49,7 @@ You can also do this with the curator of an exhibition. Curators sometimes go un
 
 ![Nubart Audio Guide for 'The Thinking Machine: Ramon Llull and the Ars Combinatoria' (CCCB, Barcelona) enriched with comments by Amador Vega]({{site.baseurl}}/images/posts/audioguide-llull-cccb.jpg){: .center-image }
 
-In the case of temporary exhibitions, time is short and it is not always possible to generate content beyond the posters for the exposition. Especially in that case, a significant added value for the audience of your audio guide can be direct testimonials, which are easy and quick to obtain. If there is absolutely no other option, you can even record them on the phone: autenticity will beat 
+In the case of temporary exhibitions, time is short and it is not always possible to generate content beyond the posters for the exposition. Especially in that case, a significant added value for the audience of your audio guide can be direct testimonials, which are easy and quick to obtain. If there is absolutely no other option, you can even record them on the phone: the authenticity of having the original voice will beat unperfect recording quality. 
 
 
 ## Remember: you are writing for listeners, not for readers! 
