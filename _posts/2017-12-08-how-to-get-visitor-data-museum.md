@@ -19,15 +19,15 @@ It’s not only a polite gesture. The flight attendant isn’t just greeting you
 ![Clicker Passenger Counter]({{site.baseurl}}/images/posts/passanger-counter.jpg){: .center-image }
 People often discuss how difficult it is to interpret data. But, the other, perhaps bigger struggle, is obtaining data in the first place. As you can see, even with the cutting edge technology airplanes have today, getting a simple passenger count requires yet another creative device. 
 
-The same is true for museums. Before you can whin relevant insights into your audience, you need to find an ideal and discrete resource to get data. 
+The same is true for museums. Before you can win relevant insights into your audience, you need to find an ideal and discrete tool to get data. 
 
 <!--more-->
 
 ## The struggle to get visitor data
 
-In the museum, the easiest data to obtain is probably the number of visitors, but anything else becomes complicated. When a ticket is sold, many museums ask their visitors where they’re from or for a postal code. But, this may not only be an annoyance to visitors, but it also adds a complication for the reception personnel. The staff, in addition to giving change or explaining something to the visitor, must also take down the data. What seemed simple can easily become complicated during peak hours.
+In the museum, the easiest data to obtain is probably the number of visitors, but anything else becomes complicated. When a ticket is sold, many museums ask their visitors where they’re from or for a postal code. But this may not only be an annoyance to visitors, it also adds a complication for the reception personnel. The staff, in addition to giving change or explaining something to the visitor, must also take down the data. What seemed simple can easily become complicated during peak hours.
 
-But, what’s worse is this method doesn’t capture some of the most important data for a museum director: Where are the visitors from? How long do they stay in the museum? How did they like the exhibits? What displays did they find most interesting?
+But, what’s worse, this method doesn’t capture some of the most important data for a museum director: Where are the visitors from? How long do they stay in the museum? How did they like the exhibits? What displays did they find most interesting?
 
 ## Nubart is also a tool for capturing visitor data
 While airlines disguise their effort to collect data as a welcome greeting, Nubart offers an audioguide.
@@ -42,7 +42,7 @@ We’ve also included some data requiring complex algorithms to obtain to our st
 
 Finally, we offer a list of **the most played tracks** and their respective percentages. This data offers surprising insights into the displays that really interested visitors. Because the visitor’s time in the museum is limited, normally people just click on the audio files of the exhibits that have interested them the most. We know by experience that this dataset doesn’t always coincide with what the curator of an exhibit wants or expects. Once this information has been gained, the museum can decide to strengthen or expand upon the public’s favorite exhibits, attracting more visitors, or to look for new ways to attract the audience’s interest to exhibits that may deserve more attention in the curator’s opinion.
 
-## How to find out what do visitors think of your museum
+## How to find out what visitors think of your museum
 
 We can also capture data in one of the most relevant moments of a museum visit, which is the end of the visit. At this time, the visitor will have formed an impression about the exhibits. They have that impression fresh in their memory, and an emotion of either enthusiasm or disappointment associated with it
 
