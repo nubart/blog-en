@@ -69,14 +69,14 @@ But usually your audio guide is to satisfy the needs of the general public, not 
 
 If you want to embellish the audio guide, make use of anecdotes or curiosities related to the piece: it will help your visitor not only to remember this work, but also your museum, which is also what it is all about.
 
-## Calculate the length of the audioguide
+## Calculate the length of the audio guide
 Synthesizing information is an art and a challenge. But there is nothing more oppressive for a visitor than a track that is too long. Three minutes sitting comfortably on the sofa at home flies by, but 3 minutes standing between strangers in front a piece can be an eternity.
 
 Did I say 3 minutes? Actually, that is already much too long! The ideal length of an audio guide track is less than two minutes. We have checked this, stopwatch in hand: the tracks of the best audio guides we know of rarely exceed two minutes.
 
 Figure that about one minute spoken text is equivalent to approximately 150 words. To be safe, keep each track of your audio guide under 300 words.
 
-Most likely, none of your visitors will listen to all the tracks of your audio guide: precisely one of the attractions of this resource is that the visitor can choose which are the pieces for which he/she wants to have expanded information. Nonetheless, the total time of all tracks together should not exceed the time it would take to visit the exhibition without the audioguide. You have probably calculated the average visit time in your museum: a good guiding measure for the ideal length of an audio guide is to divide that time in half. So if your visitors usually spend an hour in your museum, your audio guide could have a total duration of 30 minutes.
+Most likely, none of your visitors will listen to all the tracks of your audio guide: precisely one of the attractions of this resource is that the visitor can choose which are the pieces for which he/she wants to have expanded information. Nonetheless, the total time of all tracks together should not exceed the time it would take to visit the exhibition without the audio guide. You have probably calculated the average visit time in your museum: a good guiding measure for the ideal length of an audio guide is to divide that time in half. So if your visitors usually spend an hour in your museum, your audio guide could have a total duration of 30 minutes.
 
 We believe that you, the curator, are the person who knows your museum best and that you are most appropriate person to collect the relevant information about each piece and put it in writing for your audio guide. (However, if you want us to take care of the script as well, we can do it: ask us for a quote!) We (Nubart) will review the script that you propose and will advise you on possible adaptations or improvements. Our standard rates cover the translation of your script into other languages and professional speaking, so everything else will be taken care of.
 
