@@ -87,6 +87,6 @@ Agree or disagree with some of these points? Feel like adding something more? Le
 
 #### In Nubart we produce innovative and affordable audio guides.
 
-<form action="http://www.nubart.eu/">
+<form action="../">
     <input type="submit" value="Visit our website" />
 </form>

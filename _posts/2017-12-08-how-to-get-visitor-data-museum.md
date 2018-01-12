@@ -66,6 +66,6 @@ It’s possible that, as a museum, you don’t feel the need to offer an audio g
 
 #### In Nubart we produce innovative and affordable audio guides.
 
-<form action="http://www.nubart.eu/">
+<form action="../">
     <input type="submit" value="Visit our website" />
 </form>
