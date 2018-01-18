@@ -45,6 +45,6 @@ So, following customer demand, let’s move away from unwieldy, inefficient apps
 
 #### In Nubart we produce innovative and affordable audio guides.
 
-<form action="http://www.nubart.eu/">
+<form action="../../../../../">
     <input type="submit" value="Visit our website" />
 </form>
