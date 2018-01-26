@@ -13,7 +13,7 @@ banner_image: woman-typing-writing-windows.jpg
 tags: [audio guides, script]
 ---
 
-If you work for one of the world’s most renowned museums like the Thyssen, the Prado or the Tate, you do not need to keep reading: surely your audio guide already incorporates storytelling, accessibility, augmented reality, and who knows how many more features. If that is not already the case, you are probably already discussing how to incorporate all that.
+If you work for one of the world’s most renowned museums like the Thyssen, the Prado or the Tate, you do not need to keep reading: surely your audio guide already incorporates storytelling, accessibility, augmented reality, and who knows how many more features. If that is not yet the case, you are probably already discussing how to incorporate all that.
 
 But many of you are museums facing the task of producing an audio guide for the first time and you are not sure where to start. 
 
@@ -21,7 +21,7 @@ If you are looking for a straightforward audio guide with which you can effectiv
 
 <!--more-->
 
-## Choose the pieces of your exhibition that you want to explain to your visitors
+## Choose the exhibits that you want to explain to your visitors
 Even if your museum is small, it will not be possible or desirable to provide explanations for all your pieces. Before you start writing the script, consider which objects are going to be the subject of a verbal explanation. To avoid overwhelming your visitors, the amount of information and length of audio clips should be limited.
 
 Of course, all your pieces are wonderful and making a selection is very difficult. But take comfort in the knowledge that your choices are an indirect way of guiding your visitor to the works you would like them to pay special attention to. 
