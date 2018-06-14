@@ -34,6 +34,7 @@ Everything was going great until we asked her about the tweets.
 
 
 Our audio guides have a "tweet about this piece" option that allows the user to promote the exhibition or the tour from their own social network. "It may not be a good idea to put this button on your route," we told Noelia, "because although our content is adapted to consume a minimum of data and to load very quickly, the Twitter app works slowly when the coverage is not very good”. "In that case -she replied- we'd better take it off. There is no coverage at all in El Maestrazgo.”
+
 Ouch... 
 
 There is no coverage *at all* in El Maestrazgo? 
