@@ -13,7 +13,7 @@ banner_image: audioguide-nexo-nubart2.jpg
 tags: [audio tour, offline]
 ---
 
-Sometimes a problem is an opportunity in disguise. This is what we experienced when producing the audio tour to visit the natural monuments of El Maestrazgo (Teruel, Spain) for Nexo Turismo y Cultura. It was the origin of our offline digital audio guides for smartphones that work without wifi and without coverage. Here's the story. 
+Sometimes a problem is an opportunity in disguise. This is what we experienced when producing the audio tour to visit the natural monuments of El Maestrazgo (Teruel, Spain) for Nexo Turismo y Cultura. It was the origin of our offline digital audio guides for smartphones that work without wifi and without data coverage. Here's the story. 
 
 <!--more-->
 
