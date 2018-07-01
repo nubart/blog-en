@@ -13,7 +13,7 @@ banner_image: audioguide-nexo-nubart2.jpg
 tags: [audio tour, offline]
 ---
 
-Sometimes a problem is an opportunity in disguise. This is what we experienced when producing the audio tour to visit the natural monuments of El Maestrazgo (Teruel, Spain) for Nexo Turismo y Cultura. It was the origin of our offline digital audio guides for smartphones that work without wifi and without data coverage. Here's the story. 
+Sometimes a problem is an opportunity in disguise. This is what we experienced long time ago when producing the audio tour to visit the natural monuments of El Maestrazgo (Teruel, Spain) for Nexo Turismo y Cultura. It was the origin of our offline digital audio guides for smartphones that work without wifi and without data coverage. Here's the story. 
 
 <!--more-->
 
@@ -27,35 +27,35 @@ She also wanted to boost the local economy by selling our cards in local stores.
 
 ## The problem of natural sites without data coverage
 
-We had been wanting to produce a tourist route in Nubart for a long time, so we were very excited about the project. Noelia prepared a great script that we proofread and translated into English and French. We prepared the voice-over in these two languages and in Spanish and revised the maps to adapt them to the content of the audio tour. We also designed the card using Noelia's photos. 
+Noelia prepared a great script that we proofread and translated into English and French. We prepared the voice-over in these two languages and in Spanish and revised the maps to adapt them to the content of the audio tour. We also designed the card using Noelia's photos. 
 [Nubart Audio tour through the natural monuments of El Maestrazgo - Nexo Turismo y Cultura]({{site.baseurl}}/images/posts/audioguide-nexo-nubart.jpg){: .center-image }
 
 Everything was going great until we asked her about the tweets.
 
 
-Our audio guides have a "tweet about this piece" option that allows the user to promote the exhibition or the tour from their own social network. "It may not be a good idea to include this option on your route," we told Noelia, "because although our content is adapted to consume a minimum of data and to load very quickly, the Twitter app works slowly when the coverage is not very good”. "In that case -she replied- we'd better take it off. There is no coverage at all in El Maestrazgo.”
+Our audio guides have a "tweet about this item" option that allows users to promote the exhibition or the tour from their own social network. "It may not be a good idea to include this option on your route," we told Noelia, "because although our content is adapted to consume a minimum of data and to load very quickly, the Twitter app works slowly when the coverage is not good”. "In that case -she replied- we'd better take it off, since in El Maestrazgo there is no coverage at all.”
 
 Ouch... 
 
-There is no coverage *at all* in El Maestrazgo? 
+No coverage *at all*? 
 
-In Nubart we were astonished. Our cards worked in *streaming*, so that wifi or data coverage, however bad, was necessary. The content was already produced, the audio tour uploaded and the cards printed, but without data or wifi they were useless. There had been a terrible misunderstanding.
-We checked it out and Noelia was right: in the 21st century and in the middle of the EU there are still areas without data coverage. El Maestrazgo was one of them. 
+In Nubart we were worried. Our cards worked in *streaming*, so that wifi or data coverage, however bad, was necessary. The content was already produced, the audio tour uploaded and the cards printed, but without data or wifi they were useless. 
+But Noelia was right: in the 21st century and in the middle of the EU there are still areas without any data coverage. El Maestrazgo was one of them. 
 We faced a serious problem. We had all spent a lot of time and enthusiasm on this project. And now, we could either give the money back to our client using the cards to craft a decorative mosaic in the office, or we had to look for a technical solution. 
 We chose the second option. 
 
 ## The problem of downloading content offline without installing an app
 
 We had to find a way to allow the complete download of the audio route content in a place with coverage, to be able to access it later offline, from the mobile phone. In theory, only native mobile apps allow that. But at Nubart we don't develop apps, since we don’t believe in them. We had to find a way to access our digital content quickly and offline directly from the browser, without having to go through the inconvenient process of searching for an app on the store, downloading it, installing it, opening it and giving permissions. We also didn't want to consume the user's mobile phone memory, as apps do once they are installed. 
-If you are a bit *teckie*, you may be familiar with the "preload" attribute in html. Theoretically, you can use it to download audio files automatically when loading the page. But the reality is that each browser decides whether or not it wants to follow that attribute, and virtually none of the mobile browsers follow it. As Nubart audio guides and audio tours are specially designed to be used from a smartphone, the *preload* label was not a viable solution. 
-In short: 99% of software companies would tell you that, without an app, this problem has no solution.
+The "preload" attribute in html was not a viable solution, since virtually none of the mobile browsers follow that attribute. 
+Probably 99% of software companies would tell you that, without an app, this problem has no solution.
 ## How do our audioguides or audio tours work in offline mode
 
-Luckily, at Nubart we have Simon Effing, our co-founder and CTO. Using intelligent, next-generation Javascript, Simon found a way to ensure that the complete content of the audio tour is always downloaded from any browser and provisionally stored in the temporary memory of the mobile phone (also known as 'random access memory' or 'RAM memory'). The information contained in the RAM does not consume memory, since it disappears when closing the browser page or when turning off the device. However, this does not mean that it will be lost forever: users can always recover it by using the unique code of their Nubart card again. All this is done swiftly, without downloading any app.
+Our co-founder and CTO Simon Effing managed to find a way. Using intelligent, next-generation Javascript, Simon could ensure that the complete content of the audio tour is always downloaded from any browser and provisionally stored in the temporary memory of the mobile phone (also known as 'random access memory'). The information contained in the RAM does not consume memory, since it disappears when closing the browser page or when turning off the device. However, this does not mean that it will be lost forever: users can always recover it by using the unique code of their Nubart card again. All this is done swiftly, without downloading any app.
 In this video you can see the whole process in real time:
 <iframe src="https://player.vimeo.com/video/250765199" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>{: .center-image }
 As you can see, the process to access our offline audio tours is as easy for Nubart users as is accessing a Nubart audio guide in conventional streaming. They just have to wait a little longer for the contents to load.
-Once we had the Noelia problem solved, we saw that other clients could also benefit from the offline mode, like museums that have Wi-Fi in the reception area, but a bad data coverage in the exhibition halls. It also solved a problem for non-EU tourists who do not want to pay *roaming* while using the audio guide, as they can use a free wifi spot to download the content.
+Once we had the Noelia problem solved, it was clear to us that other clients could also benefit from the offline mode, like museums that have Wi-Fi in the reception area, but a bad data coverage in the exhibition halls. It also solved a problem for non-EU tourists who do not want to pay *roaming* while using the audio guide, as they can use a free wifi spot to download the content.
 Meanwhile, we have expanded this development and now we also offer a hybrid solution, switching only the audio tracks assigned to areas of poor connectivity to offline mode. This improves loading speed and usability, as well as our data report.
 
 #### At Nubart we produce innovative and affordable audio guides.
