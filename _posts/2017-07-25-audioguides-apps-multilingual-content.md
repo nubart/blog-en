@@ -1,6 +1,6 @@
 ---
 author_name: Steve Zitkovich
-author_bio: Steve is Nubart's director international
+author_bio: Steve is Nubart's marketing consultant
 author_location: Frankfurt
 layout: post
 comments: true
@@ -43,7 +43,7 @@ So, following customer demand, let’s move away from unwieldy, inefficient apps
 **Steve Zitkovich**
 
 
-#### At Nubart we produce innovative and affordable audio guides.
+#### In Nubart we produce innovative and affordable audio guides.
 
 <form action="../../../../../">
     <input type="submit" value="Visit our website" />
