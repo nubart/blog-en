@@ -8,7 +8,7 @@ published: true
 title:  "Nubart's audio guides are accessible"
 description: "Nubart audioguides are accessible for visually or hearing impaired museum visitors"
 slug: "nubart-accessible-audioguides"
-date:   2018-07-10
+date:   2018-07-11
 banner_image: accessibility-audioguides.jpg
 tags: [accessibility]
 ---
