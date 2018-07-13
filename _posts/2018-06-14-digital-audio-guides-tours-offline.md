@@ -39,7 +39,7 @@ Ouch...
 
 No coverage *at all*? 
 
-In Nubart we were worried. Our cards worked in *streaming*, so that wifi or data coverage, however bad, was necessary. The content was already produced, the audio tour uploaded and the cards printed, but without data or wifi they were useless. 
+At Nubart we were worried. Our cards worked in *streaming*, so that wifi or data coverage, however bad, was necessary. The content was already produced, the audio tour uploaded and the cards printed, but without data or wifi they were useless. 
 But Noelia was right: in the 21st century and in the middle of the EU there are still areas without any data coverage. El Maestrazgo was one of them. 
 We faced a serious problem. We had all spent a lot of time and enthusiasm on this project. And now, we could either give the money back to our client using the cards to craft a decorative mosaic in the office, or we had to look for a technical solution. 
 We chose the second option. 
@@ -58,7 +58,7 @@ As you can see, the process to access our offline audio tours is as easy for Nub
 Once we had the Noelia problem solved, it was clear to us that other clients could also benefit from the offline mode, like museums that have Wi-Fi in the reception area, but a bad data coverage in the exhibition halls. It also solved a problem for non-EU tourists who do not want to pay *roaming* while using the audio guide, as they can use a free wifi spot to download the content.
 Meanwhile, we have expanded this development and now we also offer a hybrid solution, switching only the audio tracks assigned to areas of poor connectivity to offline mode. This improves loading speed and usability, as well as our data report.
 
-#### In Nubart we produce innovative and affordable audio guides.
+#### At Nubart we produce innovative and affordable audio guides.
 
 <form action="../../../../../">
     <input type="submit" value="Visit our website" />
