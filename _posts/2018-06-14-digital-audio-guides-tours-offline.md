@@ -28,7 +28,7 @@ She also wanted to boost the local economy by selling our cards in local stores.
 ## The problem of natural sites without data coverage
 
 Noelia prepared a great script that we proofread and translated into English and French. We prepared the voice-over in these two languages and in Spanish and revised the maps to adapt them to the content of the audio tour. We also designed the card using Noelia's photos. 
-[Nubart Audio tour through the natural monuments of El Maestrazgo - Nexo Turismo y Cultura]({{site.baseurl}}/images/posts/audioguide-nexo-nubart.jpg){: .center-image }
+[Nubart Audio tour through the natural monuments of El Maestrazgo - Nexo Turismo y Cultura]({{site.baseurl}}/images/posts/audioguide-nexo-nubart2.jpg){: .center-image }
 
 Everything was going great until we asked her about the tweets.
 
