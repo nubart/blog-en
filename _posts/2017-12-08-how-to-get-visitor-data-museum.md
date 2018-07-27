@@ -46,10 +46,17 @@ Finally, we offer a list of **the most played tracks** and their respective perc
 
 We can also capture data in one of the most relevant moments of a museum visit, which is the end of the visit. At this time, the visitor will have formed an impression about the exhibits. They have that impression fresh in their memory, and an emotion of either enthusiasm or disappointment associated with it
 
-It would be the ideal moment for the museum to discover what aspects could be improved upon. But, how can this be done? By placing staff with a microphone and a notepad to interview visitors right at the moment when they’re tired and impatient after spending several hours on their feet? And although this could be done, what would stop this information from being biased? The majority of visitors will feel a bit uncomfortable giving criticisms to a staff member at the museum they’ve just visited.
-
- We’ve also solved that problem thanks to the **brief feedback survey at the end of Nubart audio guides**. The visitor finds it at the end of the digital content, at a moment when they’ve also reached the end of the visit. The survey is immediately available, visitors won’t be sent to any external page. It can be responded in a few seconds right there in the museum or on the train ride back to their hotel, or in the museum cafeteria. The survey is anonymous and not done in person, meaning that the visitor won’t feel intimidated or worried about expressing themselves freely. The best part of all: the museum receives these comments via email in real time, allowing you to take the pulse of your exhibitions all the time.
+It would be the ideal moment for the museum to discover what aspects could be improved upon. But, how can this be done? The usual methods are unsatisfactory:
+    
+ * **Personal surveys:***
+   Whether through an expensive agency or with the help of their own staff, some museums place someone with a notepad at the exit to interview the outgoing visitors. But at this point they have spent several hours on their feet and are tired and impatient. And then: Most visitors will not like to express an unbiased criticism in the presence of the museum commissioner.
+   
+ * **Feedback terminals:**
+   The automated variant of the former procedure are feedback terminals, as they are often found in airports and other public places. Some have a keyboard that allows to provide complex answers to several questions. Others show only three emoticons that the visitor is supposed to tap almost in passing: "I like", "neutral" and "I don't like". A tired visitor will not want to get involved with the first variant. And the second is far too simple to convey really relevant information.
+   These terminals are also expensive. According to our searches, their renting and maintenance costs between 50 and 200 dollars per unit and month. 
  
+The **brief feedback survey at the end of Nubart audio guides** solves this problem. Visitors find it at the end of the digital content, at a moment when they’ve also reached the end of the visit. We *do not* direct him to an external site: The anonymous survey is immediately visible and available to him in its intended brevity. The visitor can answer it in a few seconds directly at the museum or on the way back to the hotel. All this probably explains our very uncommon high response rate of 11-12% of audio guide users! The best part of all: the museum can receive these comments via email in real time, allowing its staff to take the pulse of the exhibitions all the time.
+
  Here are some of the comments that visitors have left through our audio guides::
 <video width="720" height="548" autoplay loop>
   <source src="{{site.baseurl}}/images/posts/comments-by-museum-visitors-nubart.mp4" type="video/mp4">
