@@ -85,7 +85,7 @@ To go deeper into the subject and also learn how to improve your script even mor
 Agree or disagree with some of these points? Feel like adding something more? Leave us a comment!
 
 
-#### At Nubart we produce innovative and affordable audio guides.
+#### <font color="blue">At Nubart we produce innovative and affordable audio guides.</font>
 
 <form action="../../../../../">
     <input type="submit" value="Visit our website" />

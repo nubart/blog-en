@@ -58,7 +58,7 @@ As you can see, the process to access our offline audio tours is as easy for Nub
 Once we had the Noelia problem solved, it was clear to us that other clients could also benefit from the offline mode, like museums that have Wi-Fi in the reception area, but a bad data coverage in the exhibition halls. It also solved a problem for non-EU tourists who do not want to pay *roaming* while using the audio guide, as they can use a free wifi spot to download the content.
 Meanwhile, we have expanded this development and now we also offer a hybrid solution, switching only the audio tracks assigned to areas of poor connectivity to offline mode. This improves loading speed and usability, as well as our data report.
 
-#### At Nubart we produce innovative and affordable audio guides.
+#### <font color="blue">At Nubart we produce innovative and affordable audio guides.</font>
 
 <form action="../../../../../">
     <input type="submit" value="Visit our website" />

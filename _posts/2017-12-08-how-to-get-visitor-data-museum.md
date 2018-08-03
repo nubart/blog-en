@@ -71,7 +71,7 @@ The data Nubart registers automatically as well as the information given volunta
 It’s possible that, as a museum, you don’t feel the need to offer an audio guide to your visitors. But, wouldn’t you like to know more about them? In that case, do as the airlines do and welcome your visitors with a Nubart audio guide at the door of *your airplane!*
 
 
-#### At Nubart we produce innovative and affordable audio guides.
+#### <font color="blue">At Nubart we produce innovative and affordable audio guides.</font>
 
 <form action="../../../../../">
     <input type="submit" value="Visit our website" />
