@@ -59,7 +59,7 @@ Probably 99% of software companies would tell you that, without an app, this pro
 
 Our co-founder and CTO Simon Effing managed to find a way. Using some last-generation Javascript, Simon could ensure that the complete content of the audio tour is always downloaded from any browser and provisionally stored in the temporary memory of the mobile phone (also known as 'random access memory'). The information contained in the RAM does not consume memory, since it disappears when closing the browser page or when turning off the device. However, this does not mean that it will be lost forever: users can always recover it by using the unique code of their Nubart card again. All this is done swiftly, without downloading any app.
 
-In this improvised video recording of the audio guide we produced for our German customer Steinzeitpark Dithmarschen you can see the whole process in real time:
+In this improvised video recording of the audio guide we produced for the German open air museum Steinzeitpark Dithmarschen you can see the whole process in real time:
 
 <iframe src="https://player.vimeo.com/video/282902841" width="640" height="360" frameborder="0" allowfullscreen></iframe>{: .center-image }
 
