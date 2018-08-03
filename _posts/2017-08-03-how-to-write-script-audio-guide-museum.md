@@ -29,8 +29,11 @@ Of course, all your pieces are wonderful and making a selection is very difficul
 Here are several criteria that can help you choose:
 
 * The piece is of particular historical or artistic value, a highlight for the museum that would be inconceivable to leave out.
+
 * The piece has a function or importance which would not be understood without an explanation.
+
 * Perhaps the piece itself is not especially valuable, but it has an interesting or significant history.
+
 * Perhaps the piece is not very valuable, but it draws much attention by the public.
 
 Keep in mind that it is normal for visitors to pay much more attention to the works at the beginning of the tour, when he/she is full of energy and interest. Over the course of a visit, a person naturally tires and the desire to stand in front of an object listening to the explanation decreases. If you have too many pieces present in the audio guide you run the risk of using up all your audience’s energy in the first rooms, and then they rush past the last pieces. (Nubart audio guides do not have to be returned, so if your visitor is exhausted he/she can continue to listen comfortably sitting in a coffee shop or in a hotel several hours or days later, but it is nonetheless better to avoid excess within the museum).
