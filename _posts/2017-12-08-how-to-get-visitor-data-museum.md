@@ -32,7 +32,7 @@ But, what’s worse, this method doesn’t capture some of the most important da
 ## Nubart is also a tool for capturing visitor data
 While airlines disguise their effort to collect data as a welcome greeting, Nubart offers an audio guide.
 
-Indeed. All of Nubart's audio guides, whether you prefer the card format or a digital only option, serve as valuable mechanism for collecting important data for your museum. They are, to put it this way, your flight attendant. And all of this is achieved in an automated fashion without distracting your staff or bothering the visitor. 
+Indeed. Nubart's audio guides serve as valuable mechanism for collecting important data for your museum. They are, to put it this way, your flight attendant. And all of this is achieved in an automated fashion without distracting your staff or bothering the visitor. 
 
 To access the multilingual and multimedia content of Nubart’s audio guides, the visitor uses their own Smartphone (which in technology jargon is called BYOD or “bring your own device”). This way, our system can capture very valuable data anonymously, without infringing on any of the Data Protection laws. There’s no way we can reach the identity, numbers or accounts of the user through our audio guides. We can, however, find out the **country of origin of the visitor** and their preferred language, which are fundamentally important when focusing the marketing of the museum. Today, some traditional audio guides (in other words, the devices) also allow museums to capture usage-data, but they can’t determine the country of origin: that information can only be obtained by asking the visitor directly or, of course, by capturing that information automatically through their smartphone like we do at Nubart.
 
