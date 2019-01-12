@@ -57,12 +57,6 @@ This would be the ideal moment for the museum to discover what aspects could be 
  
 The **brief feedback survey at the end of Nubart audio guides** solves this problem. Visitors find it at the end of the digital content, at a moment when they’ve also reached the end of the visit. We *do not* direct him to an external site, and we do that on purpose: The anonymous survey shall be visible and available to him in its intended brevity. The visitor can answer in a few seconds directly at the museum or on the way back to the hotel. All this probably explains our uncommonly high response rate of 12-13% of audio guide users! The best part of all: the museum can receive these comments via email in real time, allowing its staff to take the pulse of the exhibitions all the time.
 
- Here are some of the comments that visitors have left through our audio guides::
-<video width="720" height="548" autoplay loop>
-  <source src="{{site.baseurl}}/images/posts/comments-by-museum-visitors-nubart.mp4" type="video/mp4">
-Your browser does not allow to show this video.
-</video>{: .center-image }
-
 
 If the museum would like to ask the visitor’s age, gender or other data that cannot be retrieve automatically, this is the opportunity to do it! The museum can **personalize the questions on our feedback survey** to meet their own unique needs. 
 
