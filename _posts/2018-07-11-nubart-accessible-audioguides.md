@@ -70,8 +70,10 @@ With Nubart you can access the transcription of the audioguide, through a button
 Whatever your situation is, ask us. At Nubart we will analyze your case and will prepare a price quote according to your needs. 
 
 
-#### <font color="blue">At Nubart we produce innovative and affordable audio guides.</font>
+#### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
+
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/nubart-audioguide-card.jpg){: .center-image }
 <form action="../../../../../">
-    <input type="submit" value="Visit our website" />
+    <input type="submit" value="Request a sample here" />
 </form>

@@ -10,7 +10,21 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
     <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+    <!-- Twitter cards -->
+    <meta name="twitter:site"    content="@NubartEN">
+    <meta name="twitter:creator" content="{{ page.author }}">
+    <meta name="twitter:title"   content="{{ page.title }}">
 
+
+    <meta name="twitter:description" content="{{ page.description }}">
+
+
+
+    <meta name="twitter:card"  content="summary_large_image">
+    <meta name="twitter:image" content="{{ site.url }}/blog/images/posts/{{ page.banner_image }}">
+
+
+    <!-- end of Twitter cards -->
 
     <!-- cookie consent -->
     <link rel="stylesheet" type="text/css"

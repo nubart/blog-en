@@ -43,8 +43,10 @@ So, following customer demand, let’s move away from unwieldy, inefficient apps
 **Steve Zitkovich**
 
 
-#### <font color="blue">At Nubart we produce innovative and affordable audio guides.</font>
+#### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
+
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/nubart-audioguide-card.jpg){: .center-image }
 <form action="../../../../../">
-    <input type="submit" value="Visit our website" />
+    <input type="submit" value="Request a sample here" />
 </form>
