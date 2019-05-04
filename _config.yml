@@ -12,7 +12,7 @@ title: "Nubart's Blog"
 description: "Nubart is the audio guide you can keep, an innovative concept that allows even small museums to offer audio guides to their visitors. Here we write about museums, visitor's data and our latests projects."
 
 # Tagline near the site title
-tagline: "The Audio Guide you can Keep"
+tagline: "The Audio Guide Visitors Keep"
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl: /blog-en
