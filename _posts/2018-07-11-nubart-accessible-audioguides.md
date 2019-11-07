@@ -67,7 +67,7 @@ With Nubart you can access the transcription of the audioguide, through a button
 #### Issues with texts for deaf people:
 * For the pre-lingually deaf (those who lose their hearing before language acquisition), learning to read and write represents a major challenge. Even though they can learn to copy letters and identify them through images, they cannot relate the spelling of writing to the sound elements of speech. Hence **not all deaf people can read fluently**, so the incorporation of textual transcription will not meet the needs of *all* the collective.  
 
-Whatever your situation is, [contact us]({{site.baseurl}}mailto:info@nubart.eu). At Nubart we will analyze your case and will prepare a price quote according to your needs. 
+Whatever your situation is, <a href="mailto:info@nubart.eu">write to us</a>. At Nubart we will analyze your case and will prepare a price quote according to your needs. 
 
 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>

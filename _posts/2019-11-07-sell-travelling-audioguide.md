@@ -76,7 +76,7 @@ Thanks to our protection system, the contents of the postcard cannot be easily s
 Good idea, right? :)
 
 
-If you would like to receive a sample of *The traveling audio guide* or receive further explanations, please [contact us]({{site.baseurl}}mailto:info@nubart.eu). 
+If you would like to receive a sample of *The traveling audio guide* or receive further explanations, please <a href="mailto:info@nubart.eu">write to us</a>.
 
 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
