@@ -85,7 +85,7 @@ We believe that you, the curator, are the person who knows your museum best and 
 
 To go deeper into the subject and also learn how to improve your script even more by adding verbal descriptions for people who are blind or have low vision, don't miss [this great article](http://www.artbeyondsight.org/mei/verbal-description-training/writing-verbal-description-for-audio-guides/){:target="_blank"} by Lou Giansante.
 
-Agree or disagree with some of these points? Feel like adding something more? Leave us a comment!
+Agree or disagree with some of these points? Feel like adding something more? Leave us a comment or [write to us]({{site.baseurl}}mailto:info@nubart.eu)!
 
 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
