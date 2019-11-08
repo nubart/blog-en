@@ -39,7 +39,7 @@ When the audioguide content is so good that visitors want to buy it to take it h
 
 It's not hard to imagine the situation:
 
-> Dear John, I've just arrived in New Tork and I've seen this wonderful exhibition that you shouldn't miss on your next trip. I am sending you the audioguide to give you an idea. 
+> Dear John, I've just arrived in New York and I've seen this wonderful exhibition that you shouldn't miss on your next trip. I am sending you the audioguide to give you an idea. 
 
 Whether they are sent or not, postcards are still the best-selling product in museum shops. 
 
