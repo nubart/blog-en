@@ -51,7 +51,7 @@ Thanks to the support of our customer, the Center of Contemporary Culture (CCCB)
  
 Naturally, each museum can customize the design of the postcard to their liking. 
 
-# The advantages of potcard-audioguide
+# The advantages of postcard-audioguide
 
 With *The traveling audio guide*, museums and exhibition centres can promote their work and give permanence to exhibitions that have already taken place. 
 
