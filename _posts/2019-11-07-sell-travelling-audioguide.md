@@ -7,7 +7,7 @@ comments: true
 published: true
 title:  "We just launched the travelling audio guide"
 description: "With Nubart, audioguides can be sold in the museum shop as a postcard."
-slug: "nubart-accessible-audioguides"
+slug: "sell-travelling-audioguide"
 date:   2018-07-11
 banner_image: traveling-audioguide.jpg
 tags: [audioguide, postcard, travel, museum]
@@ -75,8 +75,9 @@ Thanks to our protection system, the contents of the postcard cannot be easily s
 
 Good idea, right? :)
 
-
 If you would like to receive a sample of *The traveling audio guide* or receive further explanations, please <a href="mailto:info@nubart.eu">write to us</a>.
+
+
 
 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
