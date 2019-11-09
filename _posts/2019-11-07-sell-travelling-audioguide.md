@@ -25,7 +25,7 @@ But today we're going to explain a new way of *selling* an audioguide that we di
 
 A museum in Europe -the very old house of a famous musician- recently contacted us and told us about their case: 
 
-Being a small and busy place, the visit is a bit oppressive and the public does not want to spend more time in the place than is strictly necessary to capture its essence. Visitors do not have much time to enjoy the audioguide that the museum offers free of charge through traditional devices, but they do have enough time to realise that this is an excellent multilingual audioguide of enormous interest. They find it frustrating to have to return it to the exit and not be able to hear it in its entirety. 
+Being a small and busy place, the visit is a bit oppressive and the public does not want to spend more time in the place than is strictly necessary to capture its essence. Visitors do not have much time to enjoy the audioguide that the museum offers free of charge through traditional devices, but they do have enough time to realise that this is an excellent multilingual audioguide of enormous interest. They find it frustrating to have to return it at the exit and not be able to hear it in its entirety. 
 
 As a result, the staff of this museum is often confronted with the question of whether one could *buy* the audio guide in some way to listen to it quietly at home or in a café after the visit. 
 
