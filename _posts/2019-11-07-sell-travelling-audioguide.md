@@ -2,6 +2,8 @@
 author_name: Rosa Sala
 author_bio: Rosa is Nubart's CEO and co-founder
 author_location: Berlin / Barcelona
+author_image: /blog/images/rosa-sala.jpg
+author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
 published: true
@@ -78,7 +80,7 @@ Good idea, right? :)
 If you would like to receive a sample of *The traveling audio guide* or receive further explanations, please <a href="mailto:info@nubart.eu">write to us</a>.
 
 
-
+***
 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
