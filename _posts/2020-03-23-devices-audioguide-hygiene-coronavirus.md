@@ -15,16 +15,16 @@ banner_image: cleaning-audioguide-devices-museum.jpg
 tags: [audio guide, hygiene, coronavirus]
 ---
 
-As I write this, no one knows when the coronavirus crisis will end. But there is one thing everyone agrees on: nothing will ever be the same again. One of the sectors most affected is the culture. Especially public places that bring people from all over the world together around their cultural offerings, such as museums, which are currently almost completely closed. 
+As I write this, no one knows when the coronavirus crisis will end. But there is one thing everyone agrees on: nothing will ever be the same. One of the most affected sectors is culture. Especially public places that bring people from all over the world together around their cultural offerings, such as museums, which are currently almost completely closed. 
 
 Sooner or later this unprecedented crisis will be over and museums will reopen. But the sensitivity of the public will have changed. Some habits, such as physical contact when greeting each other, will not be recovered overnight. The increase in hygiene measures will also last, especially if, as some scientists predict, the Covid-19 will still be with us for some years, reappearing in waves. 
 
-Seems that it will be a long time before someone is willing to stick on their face a device that has been previously touched by many hands. 
+Everything points to the fact that it will be a long time before someone is willing to rest a previously passed audio guide device on their face.
 
 <!--more-->
 # Cell phones and hygiene
 
-Smartphones have always been a surface with high growth of bacteria and microorganisms. According to [a research from the University of Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"}, a mobile phone has 10 times as many bacteria as a toilet seat, and nine out of ten contain microorganisms that can potentially spread diseases. We hold this device in our hands countless times a day, after touching many other potentially infected surfaces, such as public transportation grab bars, doorbells, or doorknobs. We use our mobile phone so often that trying to wash our hands before and after every single use is a futile endeavor. 
+Smartphones have always been a surface with high bacterial and microorganism growth.  According to [a research by the University of Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"}, a mobile phone has 10 times more bacteria than a toilet seat, and nine out of ten cell phones contain microorganisms that can potentially spread diseases. We hold this device in our hands countless times a day, after touching many other potentially infected surfaces, such as public transportation grab bars, doorbells, or doorknobs. We use our mobile phone so often that trying to wash our hands before and after every single use is a futile endeavor. 
 
 However, cell phones are personal devices. Proper hand cleaning and device hygiene reduce the risk to the owner. The data contained in a cell phone is sensitive, so we usually do not lose sight of it and rarely share it by passing it to somebody else. 
 
@@ -44,20 +44,20 @@ However, museum visitors do not always know whether this cleaning has taken plac
 
 But in times of global pandemics like the coronavirus, we are no longer talking about subjective feelings of disgust by particularly scrupulous visitors, but about a real health risk for which the museum is jointly responsible. Most audio-guide devices have buttons and nooks and crannies that make it difficult to thoroughly sanitize the devices. In addition, according to scientists at Princeton University [in a survey published in *The New England Journal of Medicine*](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home){:target="_blank"}, **coronavirus resists up to three days on plastic or steel surfaces**, the two materials most frequently used in the manufacture of audio guide devices.
 
-In times of coronavirus, to sanitize audio guides at least the same criteria should prevalied than what is recommended for the cleaning of mobile phones for personal use: 
+In times of coronavirus, to sanitize audio guides at least the same criteria should prevalied to sanitize audio guides than what is recommended for the cleaning of mobile phones for personal use:
 
 1. Remove the plastic capsule to clean dust and insterstitial dirt with a microfiber cloth.
    (Nowadays many audio guides are converted mobile phones. In order to increase their robustness and to prevent visitors from accessing certain buttons and functions, they are usually delivered in a special plastic case).
 
 2. Clean the surface with single-use disinfectant wipes or a cloth soaked in a solution of 62-71% ethanol, 0.5% hydrogen peroxide or 0.1% sodium hypochlorite.
 
-3. Leave the device well moistened in the chosen solution for at least three minutes, preventing the liquid from getting inside it through the holes in chargers, headphone jacks or ports. 
+3. Leave the device moistened in the chosen solution, preventing the liquid from getting inside it through the holes in chargers, headphone jacks or ports. 
 
 4. Instead of drying the device with a cloth, wait three minutes for the liquid to evaporate in order to extend its action time. 
 
 5. Wash your hands before cleaning the next device. 
 
-In this context of social alarm, the sanitation of audio guide devices becomes so intensive that it may no longer be feasible in practice. No museum wants long queues at the counters. In larger museums, thorough sanitation of audio-guide devices would probably require the hiring of extra staff. 
+In this context of social alarm, the sanitation of audio guide devices becomes so troublesome that it may no longer be feasible in practice. No visitor wants to wait on a long queue at the audio guide counter. In larger museums, thorough sanitation of audio-guide devices would probably require the hiring of extra staff. 
 
 
 # Alternative solutions
