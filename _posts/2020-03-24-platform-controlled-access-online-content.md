@@ -67,7 +67,7 @@ We believe that with this emergency initiative, adapted to these times of crisis
 
 If you are interested in this option, write to us or call us and we will send you a demo.
 
-###### (Imagen de cubierta: [Matthewafflecat de Pixabay](https://pixabay.com/users/mattthewafflecat-4607220/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4941916){:target="_blank"}) 
+<sup>(Cover image: [Matthewafflecat by Pixabay](https://pixabay.com/users/mattthewafflecat-4607220/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4941916){:target="_blank"}) </sup>
 
 ***
 
