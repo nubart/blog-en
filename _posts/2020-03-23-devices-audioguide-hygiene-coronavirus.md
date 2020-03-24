@@ -24,9 +24,11 @@ Everything points to the fact that it will be a long time before someone is will
 <!--more-->
 # Cell phones and hygiene
 
-Smartphones have always been a surface with high bacterial and microorganism growth.  According to [a research by the University of Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"}, a mobile phone has 10 times more bacteria than a toilet seat, and nine out of ten cell phones contain microorganisms that can potentially spread diseases. We hold our cell phone in our hands countless times a day, after touching many other potentially infected surfaces, such as public transportation grab bars, doorbells, or doorknobs. We use our device so often that trying to wash our hands before and after every single use is a futile endeavor. 
+Most of us know that smartphones have always been a surface with high bacterial and microorganism growth.  According to [a research by the University of Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"}, a mobile phone has 10 times more bacteria than a toilet seat, and nine out of ten cell phones contain microorganisms that can potentially spread diseases. We hold our cell phone in our hands countless times a day, after touching many other potentially infected surfaces, such as public transportation grab bars, doorbells, or doorknobs. We use our device so often that trying to wash our hands before and after every single use is a futile endeavor. 
 
-However, **cell phones are personal devices**. The data contained in a cell phone is sensitive, so we usually do not lose sight of it and rarely share it by passing it to somebody else. 
+But, hey, it's *our* dirt, after all! We can live with that. Our smartphone has become a too important comodity to allow us the luxury of being picky. 
+
+And besides: **cell phones are personal devices**. The data contained in a cell phone is sensitive, so we usually do not lose sight of it and rarely share it by passing it to somebody else. 
 
 On the other hand, **an audio guide device in a museum is like a mobile phone that is passed from hand to hand many times a day and whose functionality requires to bring it close to the face**, either directly or through a headset. 
 
