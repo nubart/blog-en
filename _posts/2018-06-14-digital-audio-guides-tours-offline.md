@@ -73,10 +73,12 @@ Meanwhile, we have expanded this development and now we also offer a hybrid solu
 
 Our offline mode also works well with our geolocation feature.
 
+***
+
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/nubart-audioguide-card.jpg){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 <form action="../../../../../">
     <input type="submit" value="Request a sample here" />
 </form>

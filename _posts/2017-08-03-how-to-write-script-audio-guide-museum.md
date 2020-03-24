@@ -89,11 +89,12 @@ To go deeper into the subject and also learn how to improve your script even mor
 
 Agree or disagree with some of these points? Feel like adding something more? Leave us a comment or <a href="mailto:info@nubart.eu">write to us</a>.
 
+***
 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/nubart-audioguide-card.jpg){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 <form action="../../../../../">
     <input type="submit" value="Request a sample here" />
 </form>

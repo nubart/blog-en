@@ -71,11 +71,12 @@ With Nubart you can access the transcription of the audioguide, through a button
 
 Whatever your situation is, <a href="mailto:info@nubart.eu">write to us</a>. At Nubart we will analyze your case and will prepare a price quote according to your needs. 
 
+***
 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
 
-![Nubart's Audioguide]({{site.baseurl}}/images/posts/nubart-audioguide-card.jpg){: .center-image }
+![Nubart's Audioguide]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 <form action="../../../../../">
     <input type="submit" value="Request a sample here" />
 </form>

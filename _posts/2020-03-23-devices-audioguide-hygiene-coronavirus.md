@@ -79,7 +79,7 @@ The only alternative is through **audioguides that the visitor can keep** instea
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/nubart-audioguide-card.jpg){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 <form action="../../../../../">
     <input type="submit" value="Request a sample here" />
 </form>

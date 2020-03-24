@@ -85,7 +85,7 @@ If you would like to receive a sample of *The traveling audio guide* or receive 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/nubart-audioguide-card.jpg){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 <form action="../../../../../">
     <input type="submit" value="Request a sample here" />
 </form>
