@@ -28,9 +28,9 @@ Most of us know that smartphones have always been a surface with high bacterial 
 
 But, hey, it's *our* dirt, after all! We can live with that. Our smartphone has become a too important comodity to allow us the luxury of being picky. 
 
-And besides: **cell phones are personal devices**. The data contained in a cell phone is sensitive, so we usually do not lose sight of it and rarely share it by passing it to somebody else. 
+And besides: **cell phones are personal devices**. The data contained in our smartphone is sensitive, so we usually do not lose sight of it and rarely share it by passing it to somebody else. 
 
-On the other hand, **an audio guide device in a museum is like a mobile phone that is passed from hand to hand many times a day and whose functionality requires to bring it close to the face**, either directly or through a headset. 
+But now, think about audio guides. **An audio guide device in a museum is like a mobile phone that is passed from hand to hand many times a day and whose functionality requires to bring it close to the face**, either directly or through a headset. 
 
 ![Woman holding an audio guide]({{site.baseurl}}/images/posts/woman-audioguide-face.jpg){: .center-image }
 
