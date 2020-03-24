@@ -55,11 +55,11 @@ This is our proposal:
 
 4. We generate a list of unique and non-transferable codes, which can only be consulted from a single device (mobile or PC). They are codes based on our LWAC technology <sup>patent pending</sup>. 
 
-5. Our system sends an automated email to each of your subscribers. Every time the content has been renewed, your subscribers will receive a new link automatically.
+5. Our system sends an automated email to each of your clients. Every time the content has been renewed, your clients will receive a new link automatically.
 
-6. Every time the content has been renewed, your subscribers will receive a new link automatically. 
+6. Every time the content has been renewed, your clients will receive a new link automatically. 
 
-7. You pay a one-time installation fee of € 250 ($ 270), and 10% of the monthly fee of each of your subscribers during the months they remain active by paying you the fee. We are in this with you, so if you lose that income, so do we (*value-driven approach*).
+7. You pay a one-time installation fee of € 250 ($ 270), and 10% of the monthly fee of each of your clients during the months they remain active by paying you the fee. We are in this with you, so if you lose that income, so do we (*value-driven approach*).
 
 8. As soon as the crisis is over, we can negotiate a continuation of the service, or cancel it without any penalty. 
 
