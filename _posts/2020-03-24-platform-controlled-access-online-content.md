@@ -57,7 +57,7 @@ This is our proposal:
 
 5. Our system sends an automated email to each of your subscribers. Every time the content has been renewed, your subscribers will receive a new link automatically.
 
-6. Cada vez que se haya renovado el contenido, tus suscriptores recibirán un nuevo enlace automáticamente. 
+6. Every time the content has been renewed, your subscribers will receive a new link automatically. 
 
 7. You pay a one-time installation fee of € 250 ($ 270), and 10% of the monthly fee of each of your subscribers during the months they remain active by paying you the fee. We are in this with you, so if you lose that income, so do we (*value-driven approach*).
 
@@ -65,7 +65,7 @@ This is our proposal:
 
 We believe that with this emergency initiative, adapted to these times of crisis, we can help support SMEs and small businesses. On our side, we hope that this concept will help us keep our great production team active. 
 
-If you are interested in this option, write to us or call us and we will send you a demo.
+If you are interested in this option, <a href="mailto:info@nubart.eu">write to us</a> and we will send you a demo.
 
 <sup>(Cover image: [Matthewafflecat by Pixabay](https://pixabay.com/users/mattthewafflecat-4607220/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4941916){:target="_blank"}) </sup>
 
