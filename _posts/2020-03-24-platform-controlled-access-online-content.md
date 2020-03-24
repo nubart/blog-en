@@ -19,20 +19,20 @@ tags: [coronavirus]
 
 Nubart normally produces audio guide cards for museums. But our clients,  museums, are closed, so we have been thinking about how we could use the technology and resources we have to support small businesses that are now suffering, like us, from the coronavirus crisis. 
 
-If you have a private academy that gives in person classes of Art, Yoga, Pilates, Ayurvedic medicine or any other stuff, or if you have a gym, or any other type of business that requires the physical presence of members, you will have had to close your establishment as a result of Covid-19. We all hope that this crisis will only last for two or three months, but during this time it is likely that you will lose many monthly subscriptions. It is possible that many of those lost subscribers will no longer return when the crisis is over. 
+If you have a private academy that gives in person classes of Art, Yoga, Pilates, Ayurvedic medicine or any other stuff, or if you have a fitness center, or any other type of business that requires the physical presence of members, you will have had to close your establishment as a result of Covid-19. We all hope that this crisis will only last for two or three months, but during this time it is likely that you will lose many monthly membership fees. It is possible that many of those lost clients will no longer return when the crisis is over. 
 
-You must keep your clients with you at all times and preserve this important bond you have created with them. To do this, you must offer something to encourage them to remain by your side during these difficult times, even if it means a reduction in fees. They may need your services and knowledge while this confinement lasts, as much as you need their income.
+You must keep your paying members with you at all times and preserve this important bond you have created with them. To do this, you must offer something to encourage them to remain by your side during these difficult times. They may need your services and knowledge while this confinement lasts, as much as you need their income.
 
-En Nubart ponemos a tu disposición nuestra tecnología para ayudarte.
+In Nubart we put at your disposal our technology to help you.
  
 <!--more-->
-# How to keep in touch with your subscribers during a pandemic
+# How to keep in touch with your members during a pandemic
 
-Certainly, you can create home videos, podcasts and other content and hang them on Youtube and other channels for free. That might help you keep in touch with your community of subscribers, but it probably won't stop you from losing many of your customers. It's fre content, after all!
+Certainly, you can create home videos, podcasts and other content and hang them on Youtube and other channels for free. That might help you keep in touch with your community of members, but it probably won't stop you from losing many of them as a client. It's free content, after all!
 
-You can only retain them if you also offer them **quality online content made by you and that is not publicly accessible**. 
+You can only retain them if you also offer them **quality online content that is not publicly accessible**. 
 
-For that you need to have an online platform, with records and log ins, or an app. In either case you will require a considerable investment of money and time. You will need to hire a developer, explain to him what you want, accompany him in the development... By the time the developer is finished, the world is hopefully back to normal and all that effort may have been in vain. 
+For that you need to have an online platform, with records and logins, or an app. In either case you will require a considerable investment of money and time. You will need to hire a developer, explain to him what you want, accompany him in the development... By the time the developer is finished, the world is hopefully back to normal and all that effort may have been in vain. 
 
 You need something NOW. 
 
