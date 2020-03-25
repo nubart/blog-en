@@ -17,13 +17,15 @@ banner_image: coronavirus.jpg
 tags: [coronavirus]
 ---
 
-Nubart normally produces audio guide cards for museums. But our clients,  museums, are closed, so we have been thinking about how we could use the technology and resources we have to support small businesses that are now suffering, like us, from the coronavirus crisis. 
+As in most of the world, my fitness center had to close down. In times of economic adjustment, when we all try to reduce our costs as much as possible, my intention was to stop paying my membership fee for the duration of the confinement. But the manager of the center called me to tell me that hey are offering their app for free during the time they are closed. I don't know if I will use that app much, but his proposal got me hooked and I decided to keep paying the membership. 
 
-If you have a private academy that gives in person classes of Art, Yoga, Pilates, Ayurvedic medicine or any other stuff, or if you have a fitness center, or any other type of business that requires the physical presence of members, you will have had to close your establishment as a result of Covid-19. We all hope that this crisis will only last for two or three months, but during this time it is likely that you will lose many monthly membership fees. It is possible that many of those lost clients will no longer return when the crisis is over. 
+That's when it occurred to me that maybe Nubart could help small businesses in similar situations. After all, not all gims are a chain like mine with a complex paid app on their own.
 
-You must keep your paying members with you at all times and preserve this important bond you have created with them. To do this, you must offer something to encourage them to remain by your side during these difficult times. They may need your services and knowledge while this confinement lasts, as much as you need their income.
+If you have a private academy that gives in person classes of Art, Yoga, Pilates, Ayurvedic medicine or any other stuff, or if you have a fitness center, or any other type of business that requires the physical presence of members, you will have had to close your establishment as a result of Covid-19. We don't want you to lose monthly membership fees during this time, especially since a few of those lost clients will no longer return when the crisis is over. 
 
-In Nubart we put at your disposal our technology to help you.
+But to keep your paying members and preserve the important bond you have created with them, you must offer something to encourage them to remain by your side during these times, as my gym manager did. They may need your services and knowledge while this confinement lasts, as much as you need their income.
+
+In Nubart we offer our technology to help you.
  
 <!--more-->
 # How to keep in touch with your members during a pandemic
@@ -32,11 +34,11 @@ Certainly, you can create home videos, podcasts and other content and hang them 
 
 You can only retain them if you also offer them **quality online content that is not publicly accessible**. 
 
-For that you need to have an online platform, with records and logins, or an app. In either case you will require a considerable investment of money and time. You will need to hire a developer, explain to him what you want, accompany him in the development... By the time the developer is finished, the world is hopefully back to normal and all that effort may have been in vain. 
+For that you need to have an online platform, with records and logins, or an app. This requires a considerable investment of money and time. You will need to hire a developer, explain to him what you want, accompany him in the development... By the time the developer is finished, the world is hopefully back to normal and all that effort may have been in vain. 
 
 You need something NOW. 
 
-You need a simple solution, no mess, no technical learning curve. A platform that allows you to upload all kinds of content (audios, videos, PDFs, images...) immediately, and that also offers a controlled access, so that only your subscribers can see your content.
+You need a simple solution, no mess, no technical learning curve. A platform that allows you to upload all kinds of content (audios, videos, PDFs, images...) immediately, and that also offers a controlled access, so that only your clients can see your content.
 
 Nubart can help you with this! In order to support businesses like yours, we want to make our controlled access technology generally used for our multimedia audio guides, available to you.
 
@@ -55,11 +57,11 @@ This is our proposal:
 
 4. We generate a list of unique and non-transferable codes, which can only be consulted from a single device (mobile or PC). They are codes based on our LWAC technology <sup>patent pending</sup>. 
 
-5. Our system sends an automated email to each of your clients. Every time the content has been renewed, your clients will receive a new link automatically.
+5. Our system sends an automated email to each of your clients. 
 
 6. Every time the content has been renewed, your clients will receive a new link automatically. 
 
-7. You pay a one-time installation fee of € 250 ($ 270), and 10% of the monthly fee of each of your clients during the months they remain active by paying you the fee. We are in this with you, so if you lose that income, so do we (*value-driven approach*).
+7. You pay 10% of the monthly fee of each of your clients during the months they remain active by paying you the fee. We are in this with you, so if you lose that income, so do we (*value-driven approach*).
 
 8. As soon as the crisis is over, we can negotiate a continuation of the service, or cancel it without any penalty. 
 
