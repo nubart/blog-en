@@ -17,13 +17,13 @@ banner_image: coronavirus.jpg
 tags: [coronavirus]
 ---
 
-As in most of the world, my fitness center had to close down. In times of economic adjustment, when we all try to reduce our costs as much as possible, my intention was to stop paying my membership fee for the duration of the confinement. But the manager of the center called me to tell me that hey are offering their app for free during the time they are closed. I don't know if I will use that app much, but his proposal got me hooked and I decided to keep paying the membership. 
+As in most of the world, my fitness center had to close down. In times of economic adjustment, when we all try to reduce our costs as much as possible, my intention was to stop paying my membership fee for the duration of the confinement. But the manager of the center called me to tell me that they are offering their app for free during the time they are closed. I don't know if I will use that app much, but his proposal got me hooked and I decided to keep paying the membership. 
 
-That's when it occurred to me that maybe Nubart could help small businesses in similar situations. After all, not all gims are a chain like mine with a complex paid app on their own.
+That's when it occurred to me that maybe Nubart could help small businesses in similar situations. After all, not all gyms are a chain like mine with a complex paid app on their own.
 
 If you have a private academy that gives in person classes of Art, Yoga, Pilates, Ayurvedic medicine or any other stuff, or if you have a fitness center, or any other type of business that requires the physical presence of members, you will have had to close your establishment as a result of Covid-19. We don't want you to lose monthly membership fees during this time, especially since a few of those lost clients will no longer return when the crisis is over. 
 
-But to keep your paying members and preserve the important bond you have created with them, you must offer something to encourage them to remain by your side during these times, as my gym manager did. They may need your services and knowledge while this confinement lasts, as much as you need their income.
+But to keep your paying members and preserve the important bond you have created with them, you must offer something to encourage them to remain by your side during these times, as my gym manager did. They may need your services and knowledge while this confinement lasts, as much as you need their fees.
 
 In Nubart we offer our technology to help you.
  
