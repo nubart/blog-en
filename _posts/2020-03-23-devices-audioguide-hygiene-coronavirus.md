@@ -34,7 +34,7 @@ But now, think about audio guides. **An audio guide device in a museum is like a
 
 ![Woman holding an audio guide]({{site.baseurl}}/images/posts/woman-audioguide-face.jpg){: .center-image }
 
-Our breath and the mucous membranes of the face are precisely the main routes of entry of the coronavirus into our bodies. 
+In our face are precisely the main routes of entry of the coronavirus into our bodies. 
 
 # Cleaning up audio guides in a museum
 
