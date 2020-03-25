@@ -17,7 +17,7 @@ banner_image: coronavirus.jpg
 tags: [coronavirus]
 ---
 
-As in most of the world, my fitness center had to close down. In times of economic adjustment, when we all try to reduce our costs as much as possible, my intention was to stop paying my membership fee for the duration of the confinement. But the manager of the center called me to tell me that they are offering their app for free during the time they are closed. I don't know if I will use that app much, but his proposal got me hooked and I decided to keep paying the membership. 
+As in most parts of the world, my fitness center had to close down. In times of economic adjustment, when we all try to reduce our costs as much as possible, my intention was to stop paying my membership fee for the duration of the lock down. But the manager of the center called me to tell me that they are offering their app for free during the time they are closed. I don't know if I will use that app much, but his proposal got me hooked and I decided to keep paying the membership. 
 
 That's when it occurred to me that maybe Nubart could help small businesses in similar situations. After all, not all gyms are a chain like mine with a complex paid app on their own.
 
