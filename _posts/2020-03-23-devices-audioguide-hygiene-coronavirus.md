@@ -38,9 +38,9 @@ Our breath and the mucous membranes of the face are precisely the main routes of
 
 # Cleaning up audio guides in a museum
 
-Hygiene has always been a relevant factor when dealing with audio guide devices in a museum. In the market studies we carried out when launching Nubart, we were surprised by the number of people who claimed never to take an audio guide in museums only because of hygienical reasons. Hygiene precautions have always had a significant impact on the takeup rate of audio guides and, consequently, on the revenue the museum obtains from their delivery. 
+Hygiene has always been a relevant factor when dealing with audio guide devices in a museum. In the market studies we carried out when launching Nubart, we were surprised by the number of people who claimed never to take an audio guide in museums only because of hygienical reasons. It can be deduced that hygiene precautions will always have affected the rate of acceptance of the audio guides and, consequently, also the revenue that the museum obtains through its delivery, although it is difficult to establish at what percentage. 
 
-The best venues are aware of this and instruct their employees to clean the audio guides before and after each use. 
+The best venues are aware of this situation and instruct their employees to clean the audio guides before and after each use. 
 
 ![Museum staff cleaning audio guide devices]({{site.baseurl}}/images/posts/cleaning-audioguide-devices-museum.jpg){: .center-image }
 
