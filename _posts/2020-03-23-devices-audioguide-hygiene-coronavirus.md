@@ -50,23 +50,25 @@ But in times of global pandemics like the coronavirus, we are no longer talking 
 
 In times of coronavirus, to sanitize audio guides at least the same criteria should prevalied to sanitize audio guides than what is recommended for the cleaning of mobile phones for personal use:
 
-1. Remove the plastic capsule to clean dust and insterstitial dirt with a microfiber cloth.
+1. Turn the device off.
+
+2. You may have to remove the plastic capsule to clean dust and insterstitial dirt with a microfiber cloth.
    (Nowadays many audio guides are converted mobile phones. In order to increase their robustness and to prevent visitors from accessing certain buttons and functions, they are usually delivered in a special plastic case).
 
-2. Clean the surface with single-use disinfectant wipes or a cloth soaked in a solution of 62-71% ethanol, 0.5% hydrogen peroxide or 0.1% sodium hypochlorite.
+3. Clean the surface with single-use disinfectant wipes or a cloth soaked in a solution of 62-71% ethanol, 0.5% hydrogen peroxide or 0.1% sodium hypochlorite.
 
-3. Leave the device moistened in the chosen solution, preventing the liquid from getting inside it through the holes in chargers, headphone jacks or ports. 
+4. Leave the device moistened in the chosen solution, preventing the liquid from getting inside it through the holes in chargers, headphone jacks or ports. 
 
-4. Instead of drying the device with a cloth, wait three minutes for the liquid to evaporate in order to extend its action time. 
+5. Instead of drying the device with a cloth, wait three minutes for the liquid to evaporate in order to extend its action time. 
 
-5. Wash your hands before cleaning the next device. 
+6. Wash your hands before cleaning the next device. 
 
 In this context of social alarm, the sanitation of audio guide devices becomes so troublesome that it may no longer be feasible in practice. No visitor wants to wait on a long queue at the audio guide counter. In larger museums, thorough sanitation of audio-guide devices would probably require the hiring of extra staff. 
 
 
 # Alternative solutions
 
-Even if a vaccine or a definitive cure for the coronavirus is found very soon, given these circumstances it does not seem likely that traditional audioguide devices will have a future in museums any more. This crisis have been global and overwhelming. We have learned that global pandemics, which until now we only knew from some bad science fiction movies, are a real danger, and that other equally lethal viruses can appear after the corona. 
+Even if a vaccine or a definitive cure for the coronavirus is found very soon, given these circumstances it does not seem likely that traditional audioguide devices will have a future in museums any more. This crisis have been global and overwhelming. We have learned that global pandemics, which until now we only knew from some bad science fiction movies, are a real danger. And that this crisis may not be the last one. 
 
 The only alternative is through **audioguides that the visitor can keep** instead of rental, or BYOD-digital solutions. 
 
