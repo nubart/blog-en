@@ -4,7 +4,7 @@ author_bio: Steve is Nubart's marketing consultant
 author_location: Frankfurt
 layout: post
 comments: true
-published: true
+published: false
 title:  "Agreed, no more apps as audio guides -- but what about languages?"
 description: "Apps and standalone devices are not good ways to deliver audio guides. If a museum wants to encourage visits from international customers, they should offer multilingual audio guides. However, museums should not try to manage multilingual content themselves"
 slug: "audioguides-apps-multilingual-content"

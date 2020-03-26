@@ -6,7 +6,7 @@ author_image: /blog/images/rosa-sala.jpg
 author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
-published: true
+published: false
 title:  "How can Nubart help in times of coronavirus"
 description: "Nubart's content management system is not only for audio guides. In times of coronavirus it can help small face-to-face businesses, such as academies or gyms, not to lose their memberships."
 slug: "platform-controlled-access-online-content"
