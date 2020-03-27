@@ -46,9 +46,13 @@ The best venues are aware of this situation and instruct their employees to clea
 
 However, museum visitors do not always know whether this cleaning has taken place or not. 
 
-But in times of global pandemics like the coronavirus, we are no longer talking about subjective feelings of disgust by  apprehensive visitors, but about a real health risk for which the museum is jointly responsible. Most audio-guide devices have buttons and nooks and crannies that make it difficult to thoroughly sanitize the devices. In addition, according to scientists at Princeton University [in a survey published in *The New England Journal of Medicine*](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home){:target="_blank"}, **coronavirus resists up to three days on plastic or steel surfaces**, the two materials most frequently used in the manufacture of audio guide devices.
+Statistically, it has already been established [a diminished demand to visit touch-based museums like science centers due to the corona-risk](https://www.colleendilen.com/2020/03/25/how-is-covid-19-impacting-likelihood-to-attend-different-cultural-entities-data/){:target="_blank"}. 
 
-In times of coronavirus, to sanitize audio guides at least the same criteria should prevalied to sanitize audio guides than what is recommended for the cleaning of mobile phones for personal use:
+In times of global pandemics like Covid-19, we are no longer talking about subjective feelings of disgust by apprehensive visitors, but about a real health risk for which the museum could feel co-responsible. 
+
+Most audio-guide devices have buttons and nooks and crannies that make it difficult to thoroughly sanitize the devices. In addition, according to scientists at Princeton University [in a survey published in *The New England Journal of Medicine*](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home){:target="_blank"}, **coronavirus resists up to three days on plastic or steel surfaces**, the two materials most frequently used in the manufacture of audio guide devices.
+
+Since we can consider audio guide devices as "public objects", an especially intense procedure should be applied to sanitize them:
 
 1. Turn the device off.
 
