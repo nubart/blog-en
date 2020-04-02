@@ -67,14 +67,14 @@ Since we can consider audio guide devices as "public objects", an especially int
 
 6. Wash your hands before cleaning the next device. 
 
-In this context of social alarm, the sanitation of audio guide devices becomes so troublesome that it may no longer be feasible in practice. No visitor wants to wait on a long queue at the audio guide counter. In larger museums, thorough sanitation of audio-guide devices would probably require the hiring of extra staff. 
+In this context, the sanitation of audio guide devices becomes so troublesome that it may no longer be feasible in practice. No visitor wants to wait on a long queue at the audio guide counter. In larger museums, thorough sanitation of audio-guide devices would probably require the hiring of extra staff. 
 
 
 # Alternative solutions
 
 Even if a vaccine or a definitive cure for the coronavirus is found very soon, given these circumstances it does not seem likely that traditional audioguide devices will have a future in museums any more. This crisis have been global and overwhelming. We have learned that global pandemics, which until now we only knew from some bad science fiction movies, are a real danger. And that this crisis may not be the last one. 
 
-The only alternative is through **audioguides that the visitor can keep** instead of rental, or BYOD-digital solutions. 
+The only alternative is through **audioguides that the visitor can keep** instead of rental, or BYOD-digital solutions (native Apps or web-apps).
 
 
 
