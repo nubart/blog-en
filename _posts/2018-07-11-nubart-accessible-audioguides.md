@@ -33,7 +33,7 @@ Sunderland Museum through their hands. The success of the initiative encouraged 
 In a museum, accessibility for visitors with low vision does not depend solely on audio guides, but they are possibly one of the most important
 instruments to provide value to their visit, since audio guides use *hearing* as the main sense. If the museum does not have Braille signs or touch
 panels that reproduce the object and make it *visible* with the touch of the fingertips, the audio guide may become the only source of information
-about the work on display, for the blind.
+about the work on display, for the blind. 
 
 ### Programming an accessible CMS
 
