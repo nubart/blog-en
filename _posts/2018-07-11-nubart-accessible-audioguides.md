@@ -1,7 +1,11 @@
 ---
-author_name: Rosa Sala author_bio: Rosa is Nubart's CEO and co-founder author_location: Berlin / Barcelona author_image: /blog/images/rosa-sala.jpg
+author_name: Rosa Sala author_bio: Rosa is Nubart's CEO and co-founder 
+author_location: Berlin / Barcelona 
+author_image: /blog/images/rosa-sala.jpg
 author_url: https://www.linkedin.com/in/rosasalarose/
-layout: post comments: true published: true title:  "Nubart's audio guides are accessible"
+layout: post comments: true 
+published: true 
+title:  "Nubart's audio guides are accessible"
 description: "Nubart audioguides are accessible for visually or hearing impaired museum visitors"
 slug: "nubart-accessible-audioguides"
 date:   2018-07-11 banner_image: accessibility-audioguides.jpg tags: [accessibility]
@@ -96,7 +100,6 @@ is suitable for museums in areas with poor data coverage or without Wi-Fi. Given
 incorporation of the texts would increase accessibility considerably at a very low cost.
 ![Transcription button for the hearing impaired at Nubart audioguides ]({{site.baseurl}}/images/posts/tivfl-deaf.gif)
 {: .center-image }
-
 
 #### Issues with texts for deaf people:
 
