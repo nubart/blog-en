@@ -28,7 +28,7 @@ Sunderland Museum through their hands. The success of the initiative encouraged 
 
 ![Children feeling a walrus at the Sunderland Museum]({{site.baseurl}}/images/posts/accessibility-sunderland-museum.jpg){: .center-image }
 
-###### <center>Tyne & Wear Archives & Museums</center>
+######<center>Tyne & Wear Archives & Museums</center>
 
 In a museum, accessibility for visitors with low vision does not depend solely on audio guides, but they are possibly one of the most important
 instruments to provide value to their visit, since audio guides use *hearing* as the main sense. If the museum does not have Braille signs or touch
@@ -103,7 +103,6 @@ is suitable for museums in areas with poor data coverage or without Wi-Fi. Given
 incorporation of the texts would increase accessibility considerably at a very low cost.
 ![Transcription button for the hearing impaired at Nubart audioguides ]({{site.baseurl}}/images/posts/tivfl-deaf.gif)
 {: .center-image }
-
 #### Issues with texts for deaf people:
 
 * For the pre-lingually deaf (those who lose their hearing before language acquisition), learning to read and write represents a major challenge. Even
