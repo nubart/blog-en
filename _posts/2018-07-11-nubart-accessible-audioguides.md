@@ -29,7 +29,7 @@ Sunderland Museum through their hands. The success of the initiative encouraged 
 
 ![Children feeling a walrus at the Sunderland Museum]({{site.baseurl}}/images/posts/accessibility-sunderland-museum.jpg){: .center-image }
 
-######<center>Tyne & Wear Archives & Museums</center>
+#####<center>Tyne & Wear Archives & Museums</center>
 
 In a museum, accessibility for visitors with low vision does not depend solely on audio guides, but they are possibly one of the most important
 instruments to provide value to their visit, since audio guides use *hearing* as the main sense. If the museum does not have Braille signs or touch
