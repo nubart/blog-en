@@ -1,5 +1,6 @@
 ---
-author_name: Rosa Sala author_bio: Rosa is Nubart's CEO and co-founder 
+author_name: Rosa Sala 
+author_bio: Rosa is Nubart's CEO and co-founder 
 author_location: Berlin / Barcelona 
 author_image: /blog/images/rosa-sala.jpg
 author_url: https://www.linkedin.com/in/rosasalarose/
@@ -8,7 +9,9 @@ published: true
 title:  "Nubart's audio guides are accessible"
 description: "Nubart audioguides are accessible for visually or hearing impaired museum visitors"
 slug: "nubart-accessible-audioguides"
-date:   2018-07-11 banner_image: accessibility-audioguides.jpg tags: [accessibility]
+date:   2018-07-11 
+banner_image: accessibility-audioguides.jpg 
+tags: [accessibility]
 ---
 
 Museums strive to be places that can be enjoyed by all citizens, including those with physical impairments. That is why at Nubart we have conceived
