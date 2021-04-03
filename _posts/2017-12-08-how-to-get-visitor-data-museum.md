@@ -62,7 +62,7 @@ The **brief feedback survey at the end of Nubart audio guides** solves this prob
 
 If the museum would like to ask the visitor’s age, gender or other data that cannot be retrieve automatically, this is the opportunity to do it! The museum can **personalize the questions on our feedback survey** to meet their own unique needs. 
 
-The data Nubart registers automatically as well as the information given voluntarily by visitors are included in our packages. You can request a quote [on our website.](http://www.nubart.eu/#pricing){:target="_blank"} 
+The data Nubart registers automatically as well as the information given voluntarily by visitors are included in our packages. You can request a quote or samples [on our website.](https://www.nubart.eu/pricing-samples.html){:target="_blank"} 
 
 It’s possible that, as a museum, you don’t feel the need to offer an audio guide to your visitors. But, wouldn’t you like to know more about them? In that case, do as the airlines do and welcome your visitors with a Nubart audio guide at the door of *your airplane!*
 
