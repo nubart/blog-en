@@ -51,7 +51,8 @@ directly or, of course, by capturing that information automatically through thei
 {% include image_full.html imageurl="/blog-en/images/posts/users-by-language.png" title="Users by language" caption="Excerpt from a Nubart Usage Report" %}
 
 Our statistical reports also include behavioral data which requires complex algorithms. For example: we track the total duration of audio use for each
-user or visit and the approximate amount of time visitors spend in the facilities. 
+user or visit and the approximate amount of time visitors spend in the facilities.
+{% include image_full.html imageurl="/blog/images/posts/usuarios-por-idioma.png" title="Usuarios por idioma" caption="Extracto de un informe de uso de Nubart" %}
 
 ![Visitors in a public site]({{site.baseurl}}/images/posts/visitors-people.jpg){: .center-image }
 
