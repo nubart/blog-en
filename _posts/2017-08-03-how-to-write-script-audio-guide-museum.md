@@ -6,7 +6,7 @@ title:  "How to write the script of an audio guide"
 description: "The script of an audio guide for a museum tour is a very special kind of texts and has its own rules. Here we provide some helpful tricks."
 slug: "how-to-write-script-audio-guide-museum"
 date:   2017-08-03
-banner_image: woman-typing-writing-windows.jpg
+image: /images/posts/woman-typing-writing-windows.jpg
 tags: [audio guides, script]
 ---
 

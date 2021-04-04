@@ -6,7 +6,7 @@ title:  "We just launched the travelling audio guide"
 description: "With Nubart, audioguides can be sold in the museum shop as a postcard."
 slug: "sell-travelling-audioguide"
 date:   2018-07-11
-banner_image: traveling-audioguide.jpg
+image: /images/posts/traveling-audioguide.jpg
 tags: [audioguide, postcard, travel, museum]
 ---
 
