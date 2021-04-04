@@ -48,7 +48,7 @@ preferred language, which are fundamentally important when focusing the marketin
 allow museums to capture usage-data, but they can’t determine the country of origin: that information can only be obtained by asking the visitor
 directly or, of course, by capturing that information automatically through their smartphone like we do at Nubart.
 
-{% include image_full.html imageurl="/blog/images/posts/users-by-language.png" title="Users by language" caption="Excerpt from a Nubart Usage Report" %}
+{% include image_full.html imageurl="/blog-en/images/posts/users-by-language.png" title="Users by language" caption="Excerpt from a Nubart Usage Report" %}
 
 Our statistical reports also include behavioral data which requires complex algorithms. For example: we track the total duration of audio use for each
 user or visit and the approximate amount of time visitors spend in the facilities. 
