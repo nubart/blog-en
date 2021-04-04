@@ -4,7 +4,7 @@ title: Style Guide
 description: This is a style guide of the BlogInn Jekyll theme
 ---
 
-This is a pragraph. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
+This is a pragraph. Pellentesque habitant [morbi tristique senectus](https://www.google.com) et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
 
 # This is an H1
 
@@ -34,17 +34,17 @@ Lorem ipsum dolor sit amet, `consectetuer adipiscing` elit. Morbi commodo, ipsum
 
 {% highlight css %}
 
-#header h1 { 
+#header h1 {
     color: #fff;
     margin-bottom: 1.5em; 
 }
 
 .author-avatar {
-    border-radius: 5px;
-    display: block;
-    height: 60px;   
-    margin-right: 30px;
-    width: 60px;
+border-radius: 5px;
+display: block;
+height: 60px;   
+margin-right: 30px;
+width: 60px;
 }
 
 {% endhighlight %}
@@ -54,10 +54,10 @@ Lorem ipsum dolor sit amet, `consectetuer adipiscing` elit. Morbi commodo, ipsum
 // Simple map
 var map;
 function initMap() {
-    map = new google.maps.Map(document.getElementById('map'), {
-        center: {lat: -34.397, lng: 150.644},
-        zoom: 8
-    });
+map = new google.maps.Map(document.getElementById('map'), {
+center: {lat: -34.397, lng: 150.644},
+zoom: 8
+});
 }
 
 {% endhighlight %}
@@ -76,7 +76,7 @@ Lorem ipsum dolor sit amet, `consectetuer adipiscing` elit. Morbi commodo, ipsum
 
 ### Regular Image
 
-{% include image_caption.html imageurl="/images/posts/Apple-Watch-In-Car.jpg" title="Apple Super" caption="supertest" %}
+{% include image_caption.html imageurl="/images/posts/Apple-Watch-In-Car.jpg" title="Apple Super" caption="This is the caption" %}
 
 Lorem ipsum dolor sit amet, `consectetuer adipiscing` elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Lorem ipsum dolor sit amet, `consectetuer adipiscing` elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
@@ -99,52 +99,25 @@ Lorem ipsum dolor sit amet, `consectetuer adipiscing` elit. Morbi commodo, ipsum
 ### Tables
 
 <table>
-    <caption>Table Demo</caption>
-    <thead>
-        <tr>
-            <th>Content categories</th>
-            <th>Flow content</th>
-        </tr>
-    </thead>
+    <caption>Table caption</caption>
     <tbody>
         <tr>
-            <td>Permitted content</td>
-            <td>
-                In this order:
-                <ul>
-                    <li>an optional <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption"><code>&lt;caption&gt;</code></a> element,</li>
-                    <li>zero or more <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup"><code>&lt;colgroup&gt;</code></a> elements,</li>
-                    <li>an optional <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead"><code>&lt;thead&gt;</code></a> element,</li>
-                    <li>one of the two alternatives:
-                        <ul>
-                            <li>one <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot"><code>&lt;tfoot&gt;</code></a> element, followed by:
-                                <ul>
-                                    <li>zero or more <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody"><code>&lt;tbody&gt;</code></a> elements,</li>
-                                    <li>or one or more <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr"><code>&lt;tr&gt;</code></a> elements,</li>
-                                </ul>
-                            </li>
-                            <li>a second alternative followed by an optional <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot"><code>&lt;tfoot&gt;</code></a> element:
-                                <ul>
-                                    <li>either zero or more <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody"><code>&lt;tbody&gt;</code></a> elements,</li>
-                                    <li>or one or more <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr"><code>&lt;tr&gt;</code></a> elements</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </td>
+            <th>Countries</th>
+            <th>Capitals</th>
+            <th>Population</th>
+            <th>Language</th>
         </tr>
         <tr>
-            <td>Tag omission</td>
-            <td>None, both the <span title="syntax-start-tag">start tag</span> and the <span title="syntax-end-tag">end tag</span> are mandatory</td>
+            <td>USA</td>
+            <td>Washington, D.C.</td>
+            <td>309 million</td>
+            <td>English</td>
         </tr>
         <tr>
-            <td>Permitted parent elements</td>
-            <td>Any element that accepts flow content</td>
-        </tr>
-        <tr>
-            <td>Normative document</td>
-            <td>HTML5, section 4.9.1 (HTML4.01, section 11.2.1)</td>
+            <td>Sweden</td>
+            <td>Stockholm</td>
+            <td>9 million</td>
+            <td>Swedish</td>
         </tr>
     </tbody>
 </table>

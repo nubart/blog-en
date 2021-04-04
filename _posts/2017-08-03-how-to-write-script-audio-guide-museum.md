@@ -1,9 +1,4 @@
 ---
-author_name: Rosa Sala
-author_bio: Rosa is Nubart's CEO and co-founder
-author_location: Berlin / Barcelona
-author_image: /blog/images/rosa-sala.jpg
-author_url: https://www.linkedin.com/in/rosasalarose/
 layout: post
 comments: true
 published: true
@@ -94,7 +89,7 @@ Agree or disagree with some of these points? Feel like adding something more? Le
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide as a card]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
 <form action="../../../../../">
     <input type="submit" value="Request a sample here" />
 </form>

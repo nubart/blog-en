@@ -1,59 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">    
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title> 
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
-    <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% seo %}
+    <link rel="shortcut icon" href="{{ "
+    /favicon.ico" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&display=swap"/>
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css"/>
     <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "
+    /feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
     <!-- Twitter cards -->
     <meta name="twitter:site"    content="@NubartEN">
     <meta name="twitter:creator" content="{{ page.author }}">
     <meta name="twitter:title"   content="{{ page.title }}">
-
-
     <meta name="twitter:description" content="{{ page.description }}">
-
-
-
     <meta name="twitter:card"  content="summary_large_image">
     <meta name="twitter:image" content="{{ site.url }}/blog-en/images/posts/{{ page.banner_image }}">
 
-
     <!-- end of Twitter cards -->
 
-    <!-- cookie consent -->
-    <link rel="stylesheet" type="text/css"
-          href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css"/>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-    <script>
-        window.addEventListener("load", function () {
-            window.cookieconsent.initialise({
-                "palette": {
-                    "popup": {
-                        "background": "#D3643B"
-                    },
-                    "button": {
-                        "background": "#FFFFFF"
-                    }
-                },
-                "theme": "classic",
-                "position": "bottom-right",
-                "content": {
-                    "message": "This site uses cookies and the EU wants us to let you know. By continuing to browse, you agree with that. (We hope you do!)",
-                    "dismiss": "OK",
-                    "link": "Know more"
-                }
-            })
-        });
-
-
-    </script>
-    <!-- End cookie consent -->
 
     <!-- Start of HubSpot Embed Code -->
     <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/2430134.js"></script>
@@ -75,35 +45,22 @@
 
 </head>
 <body>
-    <nav id="top" class="site-navigation">
+<div class="site">
+    {% include header_navigation.html %}
+    {% include header.html %}
+    <div class="site-content outer">
         <div class="inner">
-            <button id="menu-toggle" aria-expanded="false">Menu</button>
-            <div class="nav-menu">
-                <ul class="menu">
-                {% for link in site.navigation %}
-                  {% assign current = nil %}
-                  {% if page.url == link.url %}
-                    {% assign current = 'nav-current' %}
-                  {% endif %}
-                  <li class="{{ current }}">
-                    <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
-                  </li>
-                {% endfor %}
-                </ul>        
-            </div><!-- .nav-menu -->
-            <a class="subscribe-button fa-feed square fill-horizontal" href="{{site.baseurl}}/feed.xml"><span class="screen-reader-text">Subscribe</span></a>
+            <main class="site-main">
+                {{content}}
+            </main><!-- .site-main -->
         </div><!-- .inner -->
-    </nav><!-- .site-navigation -->
-    <header class="site-header">
-        <div class="inner">
-            <h1 class="site-title"><a class="logo-text" href="{{ site.baseurl }}/">{{site.title}}</a></h1>
-            <p class="site-description">{{site.tagline}}</p>
-        </div><!-- .inner -->
-    </header>
-    {{content}}
+    </div><!-- .site-content -->
     {% include footer.html %}
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/js/plugins.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/js/custom.js"></script>
+</div><!-- .site -->
+{% if site.google_analytics %}
+{% include google_analytics.html %}
+{% endif %}
+<script src="{{ site.baseurl }}/js/scripts.js"></script>
 </body>
 </html>
+
