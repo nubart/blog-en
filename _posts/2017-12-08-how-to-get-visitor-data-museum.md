@@ -50,11 +50,8 @@ directly or, of course, by capturing that information automatically through thei
 
 {% include image_full.html imageurl="/blog-en/images/posts/users-by-language.png" title="Users by language" caption="Excerpt from a Nubart Usage Report" %}
 
-Our statistical reports also include behavioral data which requires complex algorithms. For example: we track the total duration of audio use for each
+Our statistical reports also include behavioral data that require complex algorithms. For example: we track the total duration of audio use for each
 user or visit and the approximate amount of time visitors spend in the facilities.
-{% include image_full.html imageurl="/blog/images/posts/usuarios-por-idioma.png" title="Usuarios por idioma" caption="Extracto de un informe de uso de Nubart" %}
-
-![Visitors in a public site]({{site.baseurl}}/images/posts/visitors-people.jpg){: .center-image }
 
 Finally, we offer a list of **the most played tracks** and their respective percentages, offering surprising insights into the displays that really
 interest your visitors. Because the visitor’s time in the museum is limited, normally people just click on the audio files of the exhibits that
@@ -64,7 +61,7 @@ look for new ways to attract the audience’s interest to exhibits that may dese
 
 ## How to find out what visitors think of your museum
 
-We can also capture data in one of the most relevant moments of a museum tour, which is _the end of the visit_. At this time, your visitors have their
+We can also capture data in one of the most relevant moments of a museum tour,  is _the end of the visit_. At this time, your visitors have their
 experience fresh in their memory, and an emotion of either enthusiasm or disappointment associated with it.
 
 This would be the ideal moment for the museum to discover what aspects could be improved upon. But, how can this be done? The usual methods are
@@ -80,7 +77,7 @@ unsatisfactory:
   keyboard that allows to provide complex answers to several questions. Others show only three emoticons that the visitor is supposed to tap almost in
   passing: "I like", "neutral" and "I don't like". A tired visitor will not want to get involved with the first variant. And the second is far too
   simple to convey really relevant information. These terminals are also expensive. According to our searches, their renting and maintenance cost
-  around 200 dollars per unit and month.
+  around 200 USD per unit and month.
 
 The **brief feedback survey at the end of Nubart audio guides** solves this problem. Visitors find it at the end of the digital content, at a moment
 when they’ve also reached the end of the visit. We *do not* direct them to an external site, and we do that on purpose: The anonymous survey shall be
