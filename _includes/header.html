@@ -12,19 +12,7 @@
             <p class="site-description">{{site.tagline}}</p>
             {% endif %}
 
-            <!-- solution for hreflang taken from https://forestry.io/blog/creating-a-multilingual-blog-with-jekyll/ Take out if it doesn't work!-->
-            {% if page.layout != 'index' %}
-            {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-            {% if posts.size == 0 %}
-            {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-            {% endif %}
-            {% if posts.size > 1 %}
-            {% for post in posts %}
-            <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.base-url }}{{ post.url }}"/>
-            {% endfor %}
-            {% endif %}
-            {% endif %}
-            <!-- end of solution for hreflang-->
+
         </div><!-- .site-header-inside -->
     </div><!-- .inner -->
 </header><!-- .site-header -->
