@@ -3,6 +3,8 @@ layout: post
 comments: true
 published: true
 title:  "We just launched the travelling audio guide"
+lang: en
+lang-ref: sell-travelling-audioguide
 description: "With Nubart, audioguides can be sold in the museum shop as a postcard."
 slug: "sell-travelling-audioguide"
 date:   2018-07-11

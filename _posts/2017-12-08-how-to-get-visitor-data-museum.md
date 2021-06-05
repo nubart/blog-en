@@ -3,6 +3,8 @@ layout: post
 comments: true 
 published: true 
 title:  "How to get visitor data for your museum"
+lang: en
+lang-ref: how-to-get-visitors-data-museum
 description: "Before doing research about the audience of your museum, you need to collect data first. This may not be as easy as it sounds."
 slug: "how-to-get-visitors-data-museum"
 date:   2017-12-08 

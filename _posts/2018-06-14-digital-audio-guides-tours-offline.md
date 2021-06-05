@@ -3,6 +3,8 @@ layout: post
 comments: true
 published: true
 title:  "Why we can offer digital audio guides in offline mode without any app"
+lang: en
+lang-ref: digital-audio-guides-tours-offline
 description: "Museums often have a bad network coverage and cannot stream our digital audio guides. That's why we developed an offline mode that doesn't require downloading any app!"
 slug: "digital-audio-guides-tours-offline"
 date:   2018-06-14
