@@ -10,6 +10,8 @@ slug: "devices-audioguide-hygiene-coronavirus"
 date:   2020-03-23
 image: /images/posts/cleaning-audioguide-devices-museum.jpg
 tags: [audio guide, hygiene, coronavirus]
+langpath-es: /123/123/123/testes
+langpath-de: /123/123/123/testde
 ---
 
 As I write this, no one knows when the coronavirus crisis will end. But there is one thing everyone agrees on: nothing will ever be the same. One of the most affected sectors is culture. Especially public places that bring people from all over the world together around their cultural offerings, such as museums, which are currently almost completely closed. 

@@ -16,6 +16,8 @@ tagline: "The Audio Guide Visitors Keep"
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl: /blog-en
+alt-baseurl-es: /blog
+alt-baseurl-de: /blog-de
 
 # Sass
 sass:
