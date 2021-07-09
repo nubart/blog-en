@@ -17,8 +17,8 @@
         {% if page.langpath-es %}<link rel="alternate" hreflang="es" href="{{site.url}}{{site.alt-baseurl-es}}{{page.langpath-es}}" /> {% endif %}
         {% if page.langpath-de %}<link rel="alternate" hreflang="de" href="{{site.url}}{{site.alt-baseurl-de}}{{page.langpath-de}}" /> {% endif %}
     {% else %}
-        <link rel="alternate" hreflang="es" href="{{site.url}}{{site.alt-baseurl-es}}" />
-        <link rel="alternate" hreflang="de" href="{{site.url}}{{site.alt-baseurl-de}}" />
+        <link rel="alternate" hreflang="es" href="{{site.url}}{{site.alt-baseurl-es}}{{page.url}}" />
+        <link rel="alternate" hreflang="de" href="{{site.url}}{{site.alt-baseurl-de}}{{page.url}}" />
     {% endif %}
     <!-- <<< End of hreflang -->
 
