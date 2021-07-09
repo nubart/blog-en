@@ -10,6 +10,8 @@ slug: "how-to-write-script-audio-guide-museum"
 date:   2017-08-03
 image: /images/posts/woman-typing-writing-windows.jpg
 tags: [audio guides, script]
+langpath-es: /2017/07/29/como-escribir-guion-audioguia/
+langpath-de: /2018/06/10/wie-audioguide-museum-schreiben-skript/
 ---
 
 If you work for one of the world’s most renowned museums like the Thyssen, the Prado or the Tate, you do not need to keep reading: surely your audio guide already incorporates storytelling, accessibility, augmented reality, and who knows how many more features. If that is not yet the case, you are probably already discussing how to incorporate all that.
