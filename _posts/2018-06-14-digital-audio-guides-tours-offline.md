@@ -10,6 +10,8 @@ slug: "digital-audio-guides-tours-offline"
 date:   2018-06-14
 image: /images/posts/audioguide-nexo-nubart2.jpg
 tags: [audio tour, offline]
+langpath-es: /2018/01/03/audioruta-nubart-offline/
+langpath-de: /2018/06/14/digitale-audioguides-offline-ohne-netzabdeckung/
 ---
 
 Sometimes a problem is an opportunity in disguise. This is what we experienced long time ago when producing the audio tour to visit the natural monuments of El Maestrazgo (Teruel, Spain) for Nexo Turismo y Cultura. It was the origin of our offline digital audio guides for smartphones that work without wifi and without data coverage. Here's the story. 

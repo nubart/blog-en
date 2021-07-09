@@ -10,6 +10,8 @@ slug: "how-to-get-visitors-data-museum"
 date:   2017-12-08 
 image: /images/posts/nubart-as-tool-to-collect-data-museum.jpg 
 tags: [visitor data, museums, audience insights]
+langpath-es: /2017/12/08/como-obtener-datos-visitantes-museo/
+langpath-de: /2018/06/25/museum-wie-kann-man-daten-besucher-erhalten/
 ---
 
 People often discuss how difficult it is to interpret data. But, the other, perhaps bigger struggle, is obtaining data in the first place.

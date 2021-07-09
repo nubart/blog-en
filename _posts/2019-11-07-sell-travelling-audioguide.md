@@ -10,6 +10,8 @@ slug: "sell-travelling-audioguide"
 date:   2018-07-11
 image: /images/posts/traveling-audioguide.jpg
 tags: [audioguide, postcard, travel, museum]
+langpath-es: /2019/11/07/vender-audioguia-postal-museo/
+langpath-de: /2018/07/11/reisender-audioguide-postkarte/
 ---
 
 
