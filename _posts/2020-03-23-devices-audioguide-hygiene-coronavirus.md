@@ -3,8 +3,6 @@ layout: post
 comments: true
 published: true
 title:  "Audio guide devices, coronavirus and hygiene"
-lang: en
-lang-ref: devices-audioguide-hygiene-coronavirus
 description: "The coronavirus is going to transform many of our habits. What will happen in museums with the audio guide devices that are passed around?"
 slug: "devices-audioguide-hygiene-coronavirus"
 date:   2020-03-23

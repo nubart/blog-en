@@ -3,8 +3,6 @@ layout: post
 comments: true
 published: true
 title:  "How to write the script of an audio guide"
-lang: en
-lang-ref: how-to-write-script-audio-guide-museum
 description: "The script of an audio guide for a museum tour is a very special kind of texts and has its own rules. Here we provide some helpful tricks."
 slug: "how-to-write-script-audio-guide-museum"
 date:   2017-08-03
