@@ -7,7 +7,7 @@ description: "The coronavirus is going to transform many of our habits. What wil
 slug: "devices-audioguide-hygiene-coronavirus"
 date:   2020-03-23
 image: /images/posts/cleaning-audioguide-devices-museum.jpg
-tags: [audio guide, hygiene, coronavirus]
+tags: [audio guides, hygiene, coronavirus]
 langpath-es: /2020/03/23/aparatos-audioguia-higienicos-coronavirus/
 langpath-de: /2020/03/23/audioguide-geraete-hygiene-coronavirus/
 ---
