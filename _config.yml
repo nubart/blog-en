@@ -9,7 +9,7 @@
 title: "Nubart's Blog"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "Nubart is the audio guide you can keep, an innovative concept that allows even small museums to offer audio guides to their visitors. Here we write about museums, visitor's data and our latests projects."
+description: "Nubart is the audio guide visitors keep. Our innovative non-transferable cards allows even small museums to offer audio guides and monetize them. No devices or apps required! Here we write about museums, visitor's data and our latests projects."
 
 # Tagline near the site title
 tagline: "The Audio Guide Visitors Keep"
@@ -44,12 +44,12 @@ google_analytics: "UA-88444319-1"
 
 # Author information - author info at the bottom of the post
 author_name: "Nubart"
-author_bio: "Nubart is the audio guide that visitors keep. No gadgets, no apps. With visitor feedback and usage data."
-author_image: /blog/images/rosa-sala.jpg
+author_bio: "Nubart is the audio guide visitors keep. Our innovative non-transferable cards allows even small museums to offer audio guides and monetize them. No devices or apps required!"
+author_image: /blog/images/logo-nubart.png
 
 # Sidebar Add banner
 banner_url: "https://www.nubart.eu/"
-banner_image: images/nubart-audio-guides-with-headphones.jpg
+banner_image: images/scanning-nubart-audioguide.jpg
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "https://nubart.us18.list-manage.com/subscribe?u=394c1a3d13f6b53d57d360951&id=26579f63ee"
