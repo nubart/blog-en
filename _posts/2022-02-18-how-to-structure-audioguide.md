@@ -69,7 +69,7 @@ This way of organizing content is ideal for venues that have **several independe
 
 ![Audioguide by Nubart for the Riotinto Foundation museum in Huelva]({{site.baseurl}}/images/posts/structure-riotinto.jpg){: .center-image }
 
-This modular structure is also the ideal option to separate contents thematically or chronologically. The most common case are museums with many exhibitions, both permanent and temporary. In such cases, each exhibition is assigned a separate module. For example, [the Albertina Museum in Vienna (Austria)]. (https://www.nubart.eu/portfolio/albertina-audioguide.html){:target="_blank"}.
+This modular structure is also the ideal option to separate contents thematically or chronologically. The most common case are museums with many exhibitions, both permanent and temporary. In such cases, each exhibition is assigned a separate module. For example, [the Albertina Museum in Vienna (Austria)] (https://www.nubart.eu/portfolio/albertina-audioguide.html){:target="_blank"}.
 
 ![Audioguía de Nubart para el museo Albertina de Viena]({{site.baseurl}}/images/posts/structure-albertina.jpg){: .center-image }
 
@@ -106,7 +106,7 @@ For example, visitors to the [Dornier Museum in Friedrichshafen](https://www.nub
 
 ![Nubart Audioguide for the Dornier Museum in Friedrichshafen]({{site.baseurl}}/images/posts/structure-dornier.jpg){: .center-image }
 
-Instead of that photo, the drop-down button could also have [included other kinds of multimedia files].(https://www.nubart.eu/multimedia-audioguide.html){:target="_blank"}.
+Instead of that photo, the drop-down button could also have [included other kinds of multimedia files](https://www.nubart.eu/multimedia-audioguide.html){:target="_blank"}.
 
 Nubart’s in-house developed CMS for audio guides is highly flexible and can reflect the most appropriate structure for our customers’ audio tours. Naturally, all the tools presented here can be combined in the same audioguide. For example: the same guide could contain several modules, use labels only in one of them, and add collapsible buttons in some contents.
 
