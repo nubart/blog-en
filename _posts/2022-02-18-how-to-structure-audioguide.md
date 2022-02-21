@@ -75,7 +75,7 @@ This way of organizing content is ideal for venues that have **several independe
 
 This modular structure is also the ideal option to separate contents thematically or chronologically. The most common case are museums with many exhibitions, both permanent and temporary. In such cases, each exhibition is assigned a separate module. For example, [the audio guide for the Albertina Museum in Vienna, Austria](https://www.nubart.eu/portfolio/albertina-audioguide.html){:target="_blank"}.
 
-![Audioguía de Nubart para el museo Albertina de Viena]({{site.baseurl}}/images/posts/structure-albertina.jpg){: .center-image }
+![Nubart audio guide for the Albertina Museum in Vienna]({{site.baseurl}}/images/posts/structure-albertina.jpg){: .center-image }
 
 ## 2. **Thematic tags to customize content based on visitor's interests**
 
