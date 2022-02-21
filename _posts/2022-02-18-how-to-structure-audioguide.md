@@ -73,7 +73,7 @@ This way of organizing content is ideal for venues that have **several independe
 
 ![Audioguide by Nubart for the Riotinto Foundation museum in Huelva]({{site.baseurl}}/images/posts/structure-riotinto.jpg){: .center-image }
 
-This modular structure is also the ideal option to separate contents thematically or chronologically. The most common case are museums with many exhibitions, both permanent and temporary. In such cases, each exhibition is assigned a separate module. For example, [the Albertina Museum in Vienna (Austria)] (https://www.nubart.eu/portfolio/albertina-audioguide.html){:target="_blank"}.
+This modular structure is also the ideal option to separate contents thematically or chronologically. The most common case are museums with many exhibitions, both permanent and temporary. In such cases, each exhibition is assigned a separate module. For example, [the Albertina Museum in Vienna, Austria] (https://www.nubart.eu/portfolio/albertina-audioguide.html){:target="_blank"}.
 
 ![Audioguía de Nubart para el museo Albertina de Viena]({{site.baseurl}}/images/posts/structure-albertina.jpg){: .center-image }
 
