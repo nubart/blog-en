@@ -39,9 +39,13 @@ Excessive structuring should be avoided, as this tends to be at the expense of a
 For example, if a museum has five rooms on the ground floor, it may not make sense to create a navigation tree with a separate track listing for each room. Possibly grouping all objects in a single module will facilitate navigation and avoid unnecessary clicks.
 
 This principle also applies to sound tracks or multimedia elements. In most digital audio guides, clicking on a point of interest opens a new page that usually contains the image of the exhibit and an audio track, sometimes triggered by automatic playback and sometimes requiring a new click.
-Once the track has been played, the user must return to the listing to locate the next track and click on it, and so on with each point of interest along the route.  In our view, it would be desirable to reduce all these unnecessary clicks by offering **all tracks on the same scrollable page**, which is the most intuitive navigation method for older generations who are not digital natives.
+Once the track has been played, the user must return to the listing to locate the next track and click on it, and so on with each point of interest along the route:
 
+![Traditional digital audio guide with too many clicks]({{site.baseurl}}/images/posts/structure-audioguide-clicking.jpg){: .center-image }
 
+In our view, it would be desirable to reduce all these unnecessary clicks by offering **all tracks on the same scrollable page**, which is the most intuitive navigation method for older generations who are not digital natives:
+
+![Nubart digital audioguide with scrolling navigation]({{site.baseurl}}/images/posts/structure-audioguide-scrolling.jpg){: .center-image }
 
 # Facilitate customized *expansion* as well as *limitation* of audio guide content
 
