@@ -9,7 +9,7 @@ date:   2022-02-18
 image: /images/posts/structure-audioguide-title.jpg
 tags: [audio guides, structure, multimedia]
 langpath-es: /2022/02/17/como-crear-estructura-audioguia/
-langpath-de: /2020/02/18/struktur-audioguide/
+langpath-de: /2020/02/22/struktur-audioguide/
 ---
 
 With traditional audio guide devices you don’t have to worry much about the structure of the content: usually visitors type the number of an exhibit on the device's keypad and receive the corresponding audio explanation.
