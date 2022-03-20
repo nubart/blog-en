@@ -59,12 +59,19 @@ fingertips, which makes it easier to capture them using the QR code reader they 
 {: .center-image }
 
 
-### Possibility of incorporating audio descriptions
+### Audio descriptions of the exhibited objects
 
 In order to create an audio guide that is completely suitable for non visual users, it is necessary to incorporate a track with the audio description
 of the exhibition object. This helps the blind to imagine and mentally reconstruct the object before listening to the conventional explanation
 provided by the audio guide. At Nubart we can differentiate this track by marking it in another color and incorporating it before the explanatory
 track. By keeping both tracks separated, we ensure that the audio guide will be enjoyable to all visitors, with or without visual impairment.
+
+### Audio descriptions of videos played on-site
+
+Audio Description, also called descriptive video or video description, is an additional audio track that describes and gives context for essential visual information for blind and low vision viewers.
+ If closed captioning is essential to understanding the auditory information in a video for *hearing impaired*, audio description is essential to understanding the visual information for *visually impaired*.
+
+Thanks to [Nubart Sync]({{ site.baseurl }}{% post_url https://www.nubart.eu/audio-video-synchronisation.html %}){:target="_blank"}, our proprietary technology that allows the pairing of a video with a perfectly synchronized soundtrack in any language, Nubart's audio guides can include synced audio descriptions of videos played on-site.
 
 # Accessibility for the deaf and hard of hearing
 
@@ -110,6 +117,7 @@ incorporation of the texts would increase accessibility considerably at a very l
 
 Whatever your situation is, <a href="mailto:info@nubart.eu">write to us</a>. At Nubart we will analyze your case and will prepare a price quote
 according to your needs.
+
 
 ***
 
