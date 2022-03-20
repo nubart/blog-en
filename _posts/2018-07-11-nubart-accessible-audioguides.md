@@ -70,7 +70,7 @@ track. By keeping both tracks separated, we ensure that the audio guide will be 
 
 Audio description, also called descriptive video or video description, is an optional soundtrack that describes and gives context to visual information. Audiodescriptions allow visually impaired visitors to understand the content of your museum's explanatory videos, just as captioning is essential for hearing-impaired visitors to understand their *auditory* information. Thus, to achieve full accessibility, your museum's videos should both include subtitles and offer audio descriptions.
 
-Thanks to [Nubart Sync]({{ site.baseurl }}{% post_url https://www.nubart.eu/audio-video-synchronisation.html %}){:target="_blank"}, our proprietary technology that allows the pairing of a video with a perfectly synchronized soundtrack in any language, Nubart's audio guides can include synced audio descriptions of videos played on your venue.
+Thanks to [Nubart Sync](https://www.nubart.eu/audio-video-synchronisation.html %}){:target="_blank"}, our proprietary technology that allows the pairing of a video with a perfectly synchronized soundtrack in any language, Nubart's audio guides can include synced audio descriptions of videos played on your venue.
 
 # Accessibility for the deaf and hard of hearing
 
