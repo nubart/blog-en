@@ -96,14 +96,13 @@ option will access various videos with a sign language interpreter.
 
 * The production of these videos **will considerably increase the cost** of the audioguide.
 
-* Due to the size of the video files, the **guides cannot be preloaded in [our offline mode]({{ site.baseurl }}{% post_url
-  /posts/2018-06-14-digital-audio-guides-tours-offline %}){:target="_blank"}**. Although if the museum offers Wi-Fi in all its facilities or a good
-  data coverage, they can work perfectly in *streaming*.
+* Due to the size of the video files, the **guides cannot be preloaded in our offline mode**. Although if the museum offers Wi-Fi in all its facilities or a good
+  data coverage, they work perfectly in *streaming*.
 
 ### Transcriptions
 
 With Nubart you can access the transcription of the audioguide, through a button located near each track, if this function is implemented. This option
-works perfectly in [our offline mode]({{ site.baseurl }}{% post_url /posts/2018-06-14-digital-audio-guides-tours-offline %}){:target="_blank"}, so it
+works perfectly in our offline mode, so it
 is suitable for museums in areas with poor data coverage or without Wi-Fi. Given the considerable cost of producing a multilingual signoguide, the
 incorporation of the texts would increase accessibility considerably at a very low cost.
 ![Transcription button for the hearing impaired at Nubart audioguides ]({{site.baseurl}}/images/posts/tivfl-deaf.gif)
