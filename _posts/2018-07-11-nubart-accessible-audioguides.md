@@ -105,13 +105,16 @@ With Nubart you can access the transcription of the audioguide, through a button
 works perfectly in our offline mode, so it
 is suitable for museums in areas with poor data coverage or without Wi-Fi. Given the considerable cost of producing a multilingual signoguide, the
 incorporation of the texts would increase accessibility considerably at a very low cost.
-![Transcription button for the hearing impaired at Nubart audioguides ]({{site.baseurl}}/images/posts/tivfl-deaf.gif)
-{: .center-image }
+
 #### Issues with texts for deaf people:
 
 * For the pre-lingually deaf (those who lose their hearing before language acquisition), learning to read and write represents a major challenge. Even
   though they can learn to copy letters and identify them through images, they cannot relate the spelling of writing to the sound elements of speech.
   Hence **not all deaf people can read fluently**, so the incorporation of textual transcription will not meet the needs of *all* the collective.
+
+Finally, here is a video with a visual demonstration of some of Nubart's applications for accessibility:
+
+<iframe src="https://player.vimeo.com/video/559591694" width="640" height="360" frameborder="0" allowfullscreen></iframe>{: .center-image }
 
 Whatever your situation is, <a href="mailto:info@nubart.eu">write to us</a>. At Nubart we will analyze your case and will prepare a price quote
 according to your needs.
