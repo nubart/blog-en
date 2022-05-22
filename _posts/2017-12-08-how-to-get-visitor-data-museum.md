@@ -2,7 +2,7 @@
 layout: post 
 comments: true 
 published: true 
-title:  "How to get visitor data for your museum"
+title:  "How to get visitor data for your museum (updated 2022)"
 description: "Before doing research about the audience of your museum, you need to collect data first. This may not be as easy as it sounds."
 slug: "how-to-get-visitors-data-museum"
 date:   2017-12-08 
@@ -14,7 +14,7 @@ langpath-de: /2018/06/25/museum-wie-kann-man-daten-besucher-erhalten/
 
 People often discuss how difficult it is to interpret data. But, the other, perhaps bigger struggle, is obtaining data in the first place.
 
-Have you ever wondered why the flight attendant who welcomes you onto the airplane always keeps one hand behind her back? It’s not only a polite
+Have you ever wondered why the flight attendant who welcomes you onto the airplane sometimes keeps one hand behind her back? It’s not only a polite
 gesture. The flight attendant isn’t just greeting you, she’s also *counting* you. In her hidden hand, she’s holding a passenger counter like this one:
 
 ![Clicker Passenger Counter]({{site.baseurl}}/images/posts/passanger-counter.jpg){: .center-image }
@@ -28,12 +28,12 @@ audience and develop a strategy around them, you need to find a discrete tool to
 
 ## The struggle to get visitor data
 
-In the museum, the easiest data to obtain is probably the number of visitors, but anything else becomes complicated. When selling the tickets at the
+In a museum, the easiest data to obtain is probably the number of visitors, but anything else becomes complicated. When selling the tickets at the
 reception desk, many museums ask their visitors where they’re from or which is their zip code. But this may not only be an annoyance to visitors, it
 also adds a complication for the reception staff. The person at the counter, in addition to giving change or explaining some basic infomration, must
 also take down the data. What seemed simple at first can easily become complicated during peak hours.
 
-But, what’s worse, this method doesn’t capture some of the most important data for a museum director: How long do they stay in the museum? How did
+But, what’s worse, this method doesn’t capture some of the most important data for a museum director: Where are  my visitors coming from? How long do they stay in the museum? How did
 they like the exhibits? What displays did they find most interesting?
 
 ## Nubart as a tool for capturing visitor data
@@ -43,7 +43,7 @@ Where airlines disguise their effort to collect data as a "welcome greeting", Nu
 Indeed, Nubart's audio guides serve as valuable mechanism for collecting important data for your museum. Following our metaphor, Nubart would be here
 your _flight attendant_. But Nubart achieves this automatically, without distracting your staff or bothering your visitor.
 
-To access the multilingual and multimedia content of Nubart’s audio guides, the visitor uses their own smartphone (BYOD or “bring your own device”).
+To access the multilingual and multimedia content of Nubart’s audio guides, the visitor uses their own smartphone (“bring your own device”, aka BYOD).
 This way, our system can capture very valuable data anonymously, complying with GDPR and all Data Protection laws. There’s no way we can reach the
 identity, numbers or accounts of the user through our audio guides. We can, however, find out the **country of origin of the visitor** and their
 preferred language, which are fundamentally important when focusing the marketing of the museum. Today, some traditional audio guides (devices) also
@@ -54,6 +54,10 @@ directly or, of course, by capturing that information automatically through thei
 
 Our statistical reports also include behavioral data that require complex algorithms. For example: we track the total duration of audio use for each
 user or visit and the approximate amount of time visitors spend in the facilities.
+
+See Nubart's data dashboard in action:
+
+[![Video data dashboard Nubart]({{site.baseurl}}/images/posts/video-stats-nubart-audioguide.jpg)](https://vimeo.com/712527900)
 
 Finally, we offer a list of **the most played tracks** and their respective percentages, offering surprising insights into the displays that really
 interest your visitors. Because the visitor’s time in the museum is limited, normally people just click on the audio files of the exhibits that
@@ -78,8 +82,11 @@ unsatisfactory:
   The automated variant of the former procedure are feedback terminals, as they are often found in airports and other public places. Some have a
   keyboard that allows to provide complex answers to several questions. Others show only three emoticons that the visitor is supposed to tap almost in
   passing: "I like", "neutral" and "I don't like". A tired visitor will not want to get involved with the first variant. And the second is far too
-  simple to convey really relevant information. These terminals are also expensive. According to our searches, their renting and maintenance cost
-  around 200 USD per unit and month.
+  simple to convey really relevant information. 
+
+![Feedback terminal airport]({{site.baseurl}}/images/posts/feedback-terminal-airport.jpg){: .center-image }
+
+These terminals are also expensive and generate recurring costs (about 200 USD per unit and month).
 
 The **brief feedback survey at the end of Nubart audio guides** solves this problem. Visitors find it at the end of the digital content, at a moment
 when they’ve also reached the end of the visit. We *do not* direct them to an external site, and we do that on purpose: The anonymous survey shall be
@@ -90,12 +97,13 @@ comments via email in real time, allowing its staff to take the pulse of the exh
 If the museum would like to ask the visitor’s age, gender or other data that cannot be retrieved automatically, this is the opportunity to do it! The
 museum can **personalize the questions on our feedback survey** to meet their own unique needs.
 
-The data Nubart registers automatically as well as the information given voluntarily by visitors are included in our packages. You can request a
-quote [on our website.](https://www.nubart.eu/pricing-samples.html){:target="_blank"}
+## The quality of your data is equally important
 
-It’s possible that, as a museum, you don’t feel the need to offer an audio guide to your visitors. But, wouldn’t you like to know more about them? In
-that case, do as the airlines do and welcome your visitors with a Nubart audio guide at the door of *your airplane!*
+Since the Nubart cards are provided with a unique, identifiable code and are handed out to the visitors on site, the quality and informative value of the data is very high. The unique, non-transferable codes mean that the link to the audio guide cannot be distributed on social networks or a website. This means that the data from visitors who have actually visited the museum cannot be mixed with data or statements from curious outsiders. They all belong to real visitors. 
 
+Nubart offers this high-quality data dashboard free of charge to all customers.
+
+Maybe in the specific case of your museum, an audio guide is not so important, but running a visitor-oriented museum that responds to the wants and needs of your audience is. If that's the case, do as the airlines do and greet them with a Nubart audio guide card right at the front desk!
 
 ***
 
