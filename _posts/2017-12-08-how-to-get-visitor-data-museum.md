@@ -95,7 +95,7 @@ All this probably explains our uncommonly high response rate of around 10% of au
 comments via email in real time, allowing its staff to take the pulse of the exhibitions all the time.
 
 If the museum would like to ask the visitor’s age, gender or other data that cannot be retrieved automatically, this is the opportunity to do it! The
-museum can **personalize the questions on our feedback survey** to meet their own unique needs.
+museum can personalize the questions on our feedback survey to meet their own unique needs. You can view and rate these responses at any time via your password-protected customer area.
 
 ## The quality of your data is equally important
 
