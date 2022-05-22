@@ -50,14 +50,12 @@ preferred language, which are fundamentally important when focusing the marketin
 allow museums to capture usage-data, but they can’t determine the country of origin: that information can only be obtained by asking the visitor
 directly or, of course, by capturing that information automatically through their smartphone like we do at Nubart.
 
-{% include image_full.html imageurl="/blog-en/images/posts/users-by-language.png" title="Users by language" caption="Excerpt from a Nubart Usage Report" %}
-
 Our statistical reports also include behavioral data that require complex algorithms. For example: we track the total duration of audio use for each
 user or visit and the approximate amount of time visitors spend in the facilities.
 
 See Nubart's data dashboard in action:
 
-[![Video data dashboard Nubart]({{site.baseurl}}/images/posts/video-stats-nubart-audioguide.jpg)](https://vimeo.com/712527900)
+[![Video data dashboard Nubart]({{site.baseurl}}/images/posts/video-stats-nubart-audioguide.jpg)](https://vimeo.com/569296194)
 
 Finally, we offer a list of **the most played tracks** and their respective percentages, offering surprising insights into the displays that really
 interest your visitors. Because the visitor’s time in the museum is limited, normally people just click on the audio files of the exhibits that
