@@ -55,7 +55,7 @@ user or visit and the approximate amount of time visitors spend in the facilitie
 
 See Nubart's data dashboard in action:
 
-[![Video data dashboard Nubart]({{site.baseurl}}/images/posts/video-stats-nubart-audioguide.jpg)](https://vimeo.com/712527900){:target="_blank"}
+[![Video data dashboard Nubart]({{site.baseurl}}/images/posts/video-stats-nubart-audioguide.jpg)](https://vimeo.com/569296194){:target="_blank"}
 
 Finally, we offer a list of **the most played tracks** and their respective percentages, offering surprising insights into the displays that really
 interest your visitors. Because the visitor’s time in the museum is limited, normally people just click on the audio files of the exhibits that
