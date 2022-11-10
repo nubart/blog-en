@@ -55,6 +55,10 @@ user or visit and the approximate amount of time visitors spend in the facilitie
 
 See Nubart's data dashboard in action:
 
+<div class="videoContainer">
+    <iframe title="{{ 569296194 }}" src="https://player.vimeo.com/video/{{ 569296194 }}?title=0&byline=0&portrait=0" class="video" allowfullscreen></iframe>
+</div>
+
 [![Video data dashboard Nubart]({{site.baseurl}}/images/posts/video-stats-nubart-audioguide.jpg)](https://vimeo.com/manage/videos/569296194){:target="_blank"}
 
 Finally, we offer a list of **the most played tracks** and their respective percentages, offering surprising insights into the displays that really
