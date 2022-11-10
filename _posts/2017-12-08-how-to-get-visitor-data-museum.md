@@ -59,8 +59,6 @@ See Nubart's data dashboard in action:
     <iframe title="{{ 569296194 }}" src="https://player.vimeo.com/video/{{ 569296194 }}?title=0&byline=0&portrait=0" class="video" allowfullscreen></iframe>
 </div>
 
-[![Video data dashboard Nubart]({{site.baseurl}}/images/posts/video-stats-nubart-audioguide.jpg)](https://vimeo.com/manage/videos/569296194){:target="_blank"}
-
 Finally, we offer a list of **the most played tracks** and their respective percentages, offering surprising insights into the displays that really
 interest your visitors. Because the visitor’s time in the museum is limited, normally people just click on the audio files of the exhibits that
 interest them the most. We know by experience that this dataset doesn’t always coincide with what the curator of an exhibition wants or expects. Once
