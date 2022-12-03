@@ -2,7 +2,7 @@
 # Site Settings
 title: Nubart's Blog
 logo: # You can add own logo. For example "/images/logo.png".
-description: Nubart is a phygital multimedia guide, accessed from a smartphone through a non-transferable card
+description: Nubart is a multimedia guide, accessed from a smartphone through a non-transferable card
 
 
 #-------------------------------
@@ -29,7 +29,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Nubart produces <i>phygital</i> multimedia-guide cards for museums, cities and other venues. <br>Always browser-based. <br>No app to download. <br>No extra hardware.
+  hero__title: Nubart produces multimedia-guide cards for museums, cities and other venues. <br>Always browser-based. <br>No app to download. <br>No extra hardware.
 
 #-------------------------------
 # Blog Settings
