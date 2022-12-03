@@ -22,7 +22,7 @@ menu__settings:
     - title: 'About Nubart'
       url: 'https://www.nubart.eu/'
     - title: 'Authors'
-        url: '/authors/'
+      url: '/authors/'
 
 
 
