@@ -8,7 +8,7 @@ description: Nubart audioguides are accessible for visually or hearing impaired 
 slug: "nubart-accessible-audioguides"
 date:   2018-07-11 
 image: /images/accessibility-audioguides.jpg 
-tags: [accessibility]
+tags: [audio-guides, accessibility]
 langpath-es: /2018/07/09/audioquia-nubart-accesible/
 langpath-de: /2018/07/11/nubart-barrierefrei-zugaengliche-audioguides/
 featured: true
