@@ -7,10 +7,10 @@ description: Nubart is a phygital multimedia guide, accessed from a smartphone t
 
 #-------------------------------
 # Author Global Settings
-author:
-  author__name: Dann Kanigan
-  author__bio: Hi there! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada. This blog is about learning, life, and inspiring you to take one step forward.
-  author__avatar: /images/01-1.jpg
+  # author:
+  #  author__name: Nubart
+  #   author__bio: Hi there! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada. This blog is about learning, life, and inspiring you to take one step forward.
+#  author__avatar: /images/01-1.jpg
 
 
 #-------------------------------
@@ -29,7 +29,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Welcome to Nubart's blog!<br>We produce <i>phygital</i> multimedia-guide cards for museums, cities and other venues. <br>Always browser-based. No app to download and no extra hardware.
+  hero__title: Welcome to Nubart's blog!<br>We produce <i>phygital</i> multimedia-guide cards for museums, cities and other venues. <br>Always browser-based. No app to download. No extra hardware.
 
 #-------------------------------
 # Blog Settings
