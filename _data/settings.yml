@@ -29,7 +29,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Welcome to Nubart's blog!<br>We produce <i>phygital</i> multimedia-guide cards for museums, cities and other venues. <br>Always browser-based. No app to download. No extra hardware.
+  hero__title: Nubart produces <i>phygital</i> multimedia-guide cards for museums, cities and other venues. <br>Always browser-based. No app to download. No extra hardware.
 
 #-------------------------------
 # Blog Settings
