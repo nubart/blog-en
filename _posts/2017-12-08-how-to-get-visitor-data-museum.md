@@ -58,6 +58,8 @@ user or visit and the approximate amount of time visitors spend in the facilitie
 
 See Nubart's data dashboard in action:
 
+video_embed: https://player.vimeo.com/video/569296194
+
 <div class="videoContainer">
     <iframe title="{{ 569296194 }}" src="https://player.vimeo.com/video/{{ 569296194 }}?title=0&byline=0&portrait=0" class="video" frameborder="0" allowfullscreen></iframe>
 </div>
