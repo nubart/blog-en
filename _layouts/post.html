@@ -1,99 +1,153 @@
 ---
 layout: default
 ---
-<div class="primary">
-    <article class="post post-full">
-        <header class="post-header">
-            <div class="post-header-wrap">
-                {% if page.image %}
-                <div class="post-thumbnail">
-                    <img src="{{ page.image | prepend: site.baseurl }}"
-                         alt="{% if page.image_alt %}{{ page.image_alt }}{% else %}{{ page.title }}{% endif %}">
-                </div>
-                {% endif %}
-                <h1 class="post-title outer">{{page.title}}</h1>
-            </div>
-            <div class="post-meta outer">
-                por <span class="post-author">{{site.author_name}}</span> el <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-            </div>
-        </header><!-- .post-header -->
-        <div class="post-content inner-small outer">
-            {{content}}
-        </div><!-- .post-content -->
-        <footer class="post-footer inner-small outer">
-            <div class="post-share">
-                <span>Share:</span>
-                <a class="button button-icon button-fill-horz"
-                   href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ site.url }}{{ page.url }}"
-                   target="_blank" rel="noopener">{% include icons/twitter.html %}<span
-                        class="screen-reader-text">Share on Twitter</span></a>
-                <a class="button button-icon button-fill-horz"
-                   href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&amp;t={{ page.title | uri_escape }}"
-                   target="_blank" rel="noopener">{% include icons/facebook.html %}<span
-                        class="screen-reader-text">Share on Facebook</span></a>
-            </div>
-            {% if page.tags.size > 0 %}
-            <div class="post-tags">
-                <span>Tags:</span>
-                {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/index.html#{{ tag | cgi_escape }}" rel="tag">{{ tag }}</a>{% endfor %}
-            </div>
+
+{% if page.video_embed %} {% assign videoPost = ' post-head-video' %} {% assign videoInfo = ' post__info-video' %} {% endif %}
+<div class="post-head{{videoPost}}">
+  <div class="container">
+    <div class="row">
+
+      <div class="col {% if page.video_embed %}col-12{% else %}col-6 col-d-12{% endif %}">
+        <div class="post__info{{videoInfo}}">
+      
+          {% if page.tags.size >= 1 %}
+          <div class="post__tags">
+            {% for tag in page.tags %}
+            <a href="{{ site.baseurl }}/tags/?tag={{ tag | downcase | url_encode }}" class="post__tag">{{ tag }}</a>
+            {% endfor %}
+          </div>
+          {% endif %}
+      
+          <h1 class="post__title">{{ page.title | escape }}</h1>
+
+          {% if page.description %}
+          <p class="post__description">{{ page.description }}</p>
+          {% endif %}
+      
+          <div class="post__meta">
+            {% assign author = site.authors | where: 'username', page.author | first %}
+            
+            {% if author %}
+            <a href="{{ author.url }}" class="post__author__image">
+              <img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}">
+            </a>
+            {% else %}
+            <a href="{{site.baseurl}}/about/" class="post__author__image">
+              <img class="lazy" data-src="{{site.data.settings.author.author__avatar}}"
+                alt="{{site.data.settings.author.author__name}}">
+            </a>
             {% endif %}
-        </footer><!-- .post-footer -->
-    </article><!-- .post -->
-    <div class="author-box outer">
-        <div class="inner-small">
-            <div class="author-info">
-                <div class="author-avatar" style="background-image: url({{ site.author_image }})">
-                    <span class="screen-reader-text">{{ site.author_name }}'s Picture</span>
-                </div>
-                <div class="author-details">
-                    <h2 class="author-title line-accent">About {{ site.author_name }}</h2>
-                    <p class="author-bio">{{ site.author_bio }}</p>
-                    {% if site.author_location or site.author_url %}
-                    <p class="author-links">
-                        <span class="author-location">{% include icons/map-pin.html %} {{ site.author_location }}</span>
-                        <span class="author-website">{% include icons/link.html %} <a href="{{ site.author_url }}" target="_blank" rel="noopener"> {{ site.author_url }}</a></span>
-                    </p>
-                    {% endif %}
-                </div>
-            </div><!-- .author-info -->
-        </div><!-- .inner-small -->
-    </div><!-- .author-box -->
-    <nav class="post-navigation">
-        <h2 class="screen-reader-text">Next</h2>
-        {% if page.previous.url %}
-        <div class="nav-previous">
-            <div class="nav-inside inner-small outer">
-                {% if page.previous.image %}
-                <a href="{{ site.baseurl }}{{page.previous.url}}" class="nav-thumb"
-                   style="background-image: url({{ page.previous.image }})"></a>
-                {% endif %}
-                <div class="nav-before">Previous</div>
-                <h3 class="nav-title"><a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a>
-                </h3>
-                <div class="nav-date">{{page.previous.date | date: "%B %-d, %Y"}}</div>
-            </div><!-- .nav-inside -->
-        </div><!-- .nav-previous -->
-        {% endif %}
-        {% if page.next.url %}
-        <div class="nav-next">
-            <div class="nav-inside inner-small outer">
-                {% if page.next.image %}
-                <a href="{{ site.baseurl }}{{page.next.url}}" class="nav-thumb"
-                   style="background-image: url({{ page.next.image }})"></a>
-                {% endif %}
-                <div class="nav-before">Next</div>
-                <h3 class="nav-title"><a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a></h3>
-                <div class="nav-date">{{page.next.date | date: "%B %-d, %Y"}}</div>
-            </div><!-- .nav-inside -->
-        </div><!-- .nav-next -->
-        {% endif %}
-    </nav><!-- .post-navigation -->
+      
+            <div class="post__meta-bottom">
+              {% if author %}
+                <a class="post__author__name" href="{{ author.url }}">{{ author.name }}</a>
+              {% else %}
+                <a class="post__author__name" href="{{site.baseurl}}/about/">{{ site.data.settings.author.author__name }}</a>
+              {% endif %}
+              <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
+            </div>
+          </div>
+      
+        </div>
+      </div>
+      
+      {% if page.video_embed %}
+      <div class="col col-12">
+        <div class="post-video">
+          <div class="post-video__wrap">
+            <iframe src="{{ page.video_embed }}" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      {% else %}
 
-    {% if site.disqus %}
-    {% include disqus.html %}
+      {%if page.image %}
+      <div class="col col-5 push-1 col-d-12 push-d-0">
+        <div class="post-image">
+          <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+        </div>
+        {% if page.image_caption %}
+          <div class="post-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
+        {% endif %}
+      </div>
+      {% endif %}
+
+      {% endif %}
+
+    </div>
+  </div>
+</div>
+
+<!-- begin post -->
+<div class="container animate">
+
+  <article class="post">
+
+    <div class="post__content">
+      {{ content }}
+    </div>
+
+    <div class="post__share">
+      <ul class="share__list list-reset">
+        <li class="share__item">
+          <a class="share__link share__twitter"
+            href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+        </li>
+        <li class="share__item">
+          <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+        </li>
+        <li class="share__item">
+          <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&amp;media={{ site.url }}{{ site.baseurl }}{{ page.image }}&amp;description={{ page.title | uri_escape }}"
+          onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+          rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+        </li>
+      </ul>
+    </div>
+
+    {% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == true %}
+      {% include disqus-comments.html %}
     {% endif %}
+  </article>
+</div>
+<!-- end post -->
 
-</div><!-- .primary -->
+<div class="container">
+  <div class="post__navigation animate">
+    {% if page.previous.url %}
+    <div class="post__prev">
+      <a href="{{page.previous.url}}" class="prev__image">
+        <img class="lazy" data-src="{{site.baseurl}}{{page.previous.image}}" alt="{{ page.title }}">
+      </a>
+      <div class="prev__box">
+        <span class="post__nav post__nav__prev">Older post</span>
+        <h2 class="post__nav__title"><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
+        <p class="post__nav__excerpt">
+          {% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}
+        </p>
+      </div>
+    </div>
+    {% endif %}
+  
+    {% if page.next.url %}
+    <div class="post__next">
+      <div class="next__box">
+        <span class="post__nav post__nav__next">Newer post</span>
+        <h2 class="post__nav__title"><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
+        <p class="post__nav__excerpt">
+          {% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}
+        </p>
+      </div>
+      <a href="{{page.next.url}}" class="next__image">
+        <img class="lazy" data-src="{{site.baseurl}}{{page.next.image}}" alt="{{ page.title }}">
+      </a>
+    </div>
+    {% endif %}
+  </div>
+</div>
 
-{% include sidebar.html %}
+
+{% include related-posts.html %}

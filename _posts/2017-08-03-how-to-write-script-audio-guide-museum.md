@@ -6,7 +6,7 @@ title:  "How to write the script of an audio guide"
 description: "The script of an audio guide for a museum tour is a very special kind of texts and has its own rules. Here we provide some helpful tricks."
 slug: "how-to-write-script-audio-guide-museum"
 date:   2017-08-03 
-image: /images/posts/woman-typing-writing-windows.jpg 
+image: /images/woman-typing-writing-windows.jpg 
 tags: [audio guides, script]
 langpath-es: /2017/07/29/como-escribir-guion-audioguia/ 
 langpath-de: /2018/06/10/wie-audioguide-museum-schreiben-skript/
@@ -65,7 +65,7 @@ of [The Thinking Machine: Ramón Llull and the "ars combinatoria"](http://www.cc
 at the Centre de Cultura Contemporània de Barcelona (CCCB) and it was a success. His wise contributions complemented and greatly enriched the more
 conventional audio tracks we also offered.
 
-![Nubart Audio Guide for 'The Thinking Machine: Ramon Llull and the Ars Combinatoria' (CCCB, Barcelona) enriched with comments by Amador Vega]({{site.baseurl}}/images/posts/audioguide-llull-cccb.jpg)
+![Nubart Audio Guide for 'The Thinking Machine: Ramon Llull and the Ars Combinatoria' (CCCB, Barcelona) enriched with comments by Amador Vega]({{site.baseurl}}/images/audioguide-llull-cccb.jpg)
 {: .center-image }
 
 In the case of temporary exhibitions, time is short and it is not always possible to generate content beyond the posters for the exposition.
@@ -136,7 +136,7 @@ Agree or disagree with some of these points? Feel like adding something more? Le
 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
-![Nubart's Audioguide as a card]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide as a card]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
 <form action="../../../../../">
     <input type="submit" value="Request a sample here" />
 </form>

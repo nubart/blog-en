@@ -6,7 +6,7 @@ title:  "We just launched the travelling audio guide"
 description: "With Nubart, audioguides can be sold in the museum shop as a postcard."
 slug: "sell-travelling-audioguide"
 date:   2018-07-11
-image: /images/posts/traveling-audioguide.jpg
+image: /images/traveling-audioguide.jpg
 tags: [audio guides, postcard, travel, museum]
 langpath-es: /2019/11/07/vender-audioguia-postal-museo/
 langpath-de: /2018/07/11/reisender-audioguide-postkarte/
@@ -44,7 +44,7 @@ Whether they are sent or not, postcards are still the best-selling product in mu
 
 Thanks to the support of our customer, the Center of Contemporary Culture (CCCB) in Barcelona, we have been able to make this prototype:
 
-![Prototype of Nubart's audioguide postcard]({{site.baseurl}}/images/posts/nubart-postcard-audioguide.jpg){: .center-image }
+![Prototype of Nubart's audioguide postcard]({{site.baseurl}}/images/nubart-postcard-audioguide.jpg){: .center-image }
  
  Thanks to [our modular system](https://www.nubart.eu/multimedia-audioguide.html){:target="_blank"}, the specific card on this postcard contains the current exhibition, but also the past exhibitions whose audio guides we produced at the time. 
  
@@ -64,11 +64,11 @@ As for visitors, they can share with their friends the enthusiasm for the audiog
 
 The functionality is very simple. The addressee of the postcard only has to tear the postcard where it is indicated:
 
-![Ripping Nubart's postcard-audioguide]({{site.baseurl}}/images/posts/nubart-postcard-audioguide-inside1.jpg){: .center-image }
+![Ripping Nubart's postcard-audioguide]({{site.baseurl}}/images/nubart-postcard-audioguide-inside1.jpg){: .center-image }
 
 By removing the card, the recipient will be able to access the unique codes and listen to the multimedia audioguide.  
 
-![The Nubart postcard-audioguide once opened]({{site.baseurl}}/images/posts/nubart-postcard-audioguide-inside2.jpg){: .center-image }
+![The Nubart postcard-audioguide once opened]({{site.baseurl}}/images/nubart-postcard-audioguide-inside2.jpg){: .center-image }
 
 Thanks to our protection system, the contents of the postcard cannot be easily shared. However, the cardholder will be able to access the content at any time. 
 
@@ -82,7 +82,7 @@ If you would like to receive a sample of *The traveling audio guide* or receive 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
 <form action="../../../../../">
     <input type="submit" value="Request a sample here" />
 </form>

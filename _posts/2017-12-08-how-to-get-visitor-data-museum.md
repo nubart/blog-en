@@ -6,7 +6,7 @@ title:  "How to get visitor data for your museum (updated 2022)"
 description: "Before doing research about the audience of your museum, you need to collect data first. This may not be as easy as it sounds."
 slug: "how-to-get-visitors-data-museum"
 date:   2017-12-08 
-image: /images/posts/nubart-as-tool-to-collect-data-museum.jpg 
+image: /images/nubart-as-tool-to-collect-data-museum.jpg 
 tags: [visitor data, museums, audience insights]
 langpath-es: /2017/12/08/como-obtener-datos-visitantes-museo/
 langpath-de: /2018/06/25/museum-wie-kann-man-daten-besucher-erhalten/
@@ -17,7 +17,7 @@ People often discuss how difficult it is to interpret data. But, the other, perh
 Have you ever wondered why the flight attendant who welcomes you onto the airplane sometimes keeps one hand behind her back? It’s not only a polite
 gesture. The flight attendant isn’t just greeting you, she’s also *counting* you. In her hidden hand, she’s holding a passenger counter like this one:
 
-![Clicker Passenger Counter]({{site.baseurl}}/images/posts/passanger-counter.jpg){: .center-image }
+![Clicker Passenger Counter]({{site.baseurl}}/images/passanger-counter.jpg){: .center-image }
 
 As you can see, even with the cutting edge technology airplanes have today, getting a simple passenger count requires yet another creative device.
 
@@ -84,7 +84,7 @@ unsatisfactory:
   passing: "I like", "neutral" and "I don't like". A tired visitor will not want to get involved with the first variant. And the second is far too
   simple to convey really relevant information. 
 
-![Feedback terminal airport]({{site.baseurl}}/images/posts/feedback-terminal-airport.jpg){: .center-image }
+![Feedback terminal airport]({{site.baseurl}}/images/feedback-terminal-airport.jpg){: .center-image }
 
 These terminals are also expensive and generate recurring costs (about 200 USD per unit and month).
 
@@ -109,7 +109,7 @@ Maybe in the specific case of your museum, an audio guide is not so important, b
 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
 <form action="../../../../../">
     <input type="submit" value="Request a sample here" />
 </form>

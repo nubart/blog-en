@@ -1,54 +1,69 @@
-<footer class="site-footer outer">
-    <div class="inner">
-        <div class="social-links">
-            {% if site.twitter_url %}
-            <a href="{{ site.twitter_url }}" class="button button-icon button-fill-horz" target="_blank"
-               rel="noopener"><span class="screen-reader-text">Twitter</span>{% include icons/twitter.html %}</a>
-            {% endif %}
-            {% if site.facebook_url %}
-            <a href="{{ site.facebook_url }}" class="button button-icon button-fill-horz" target="_blank"
-               rel="noopener"><span class="screen-reader-text">Facebook</span>{% include icons/facebook.html %}</a>
-            {% endif %}
-            {% if site.github_url %}
-            <a href="{{ site.github_url }}" class="button button-icon button-fill-horz" target="_blank"
-               rel="noopener"><span class="screen-reader-text">GitHub</span>{% include icons/github.html %}</a>
-            {% endif %}
-            {% if site.codepen_url %}
-            <a href="{{ site.codepen_url }}" class="button button-icon button-fill-horz" target="_blank"
-               rel="noopener"><span class="screen-reader-text">CodePen</span>{% include icons/codepen.html %}</a>
-            {% endif %}
-            {% if site.dribbble_url %}
-            <a href="{{ site.dribbble_url }}" class="button button-icon button-fill-horz" target="_blank"
-               rel="noopener"><span class="screen-reader-text">Dribbble</span>{% include icons/dribbble.html %}</a>
-            {% endif %}
-            {% if site.medium_url %}
-            <a href="{{ site.medium_url }}" class="button button-icon button-fill-horz" target="_blank"
-               rel="noopener"><span class="screen-reader-text">Medium</span>{% include icons/medium.html %}</a>
-            {% endif %}
-            {% if site.instagram_url %}
-            <a href="{{ site.instagram_url }}" class="button button-icon button-fill-horz" target="_blank"
-               rel="noopener"><span class="screen-reader-text">Instagram</span>{% include icons/instagram.html %}</a>
-            {% endif %}
-            {% if site.pinterest_url %}
-            <a href="{{ site.pinterest_url }}" class="button button-icon button-fill-horz" target="_blank"
-               rel="noopener"><span class="screen-reader-text">Pinterest</span>{% include icons/pinterest.html %}</a>
-            {% endif %}
-            {% if site.linkedin_url %}
-            <a href="{{ site.linkedin_url }}" class="button button-icon button-fill-horz" target="_blank"
-               rel="noopener"><span class="screen-reader-text">LinkedIn</span>{% include icons/linkedin.html %}</a>
-            {% endif %}
-            {% if site.weibo_url %}
-            <a href="{{ site.weibo_url }}" class="button button-icon button-fill-horz" target="_blank"
-               rel="noopener"><span class="screen-reader-text">Weibo</span>{% include icons/weibo.html %}</a>
-            {% endif %}
-            <a href="{{ site.baseurl }}/feed.xml" class="button button-icon button-fill-horz"><span
-                    class="screen-reader-text">RSS</span>{% include icons/rss.html %}</a>
-        </div><!-- .social-links -->
-        <div class="site-info">
-            <div class="copyright">
-                &copy; <a href="{{ site.baseurl }}/">{{site.title}}</a> all rights reserved.</a>
+<!-- begin footer -->
+<footer class="footer">
+
+  <div class="footer__inner">
+
+    {% include subscribe.html %}
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col col-6 col-d-12">
+          <div class="widget-footer widget-author">
+            <div class="widget-author__avatar">
+              <img class="lazy" data-src="{{site.data.settings.author.author__avatar}}" alt="{{site.data.settings.author.author__name}}">
             </div>
-            <a href="#top" id="js-top-link" class="top-link button button-icon button-fill-horz"><span class="screen-reader-text">Back to top</span>{% include icons/chevron-up.html %}</a>
-        </div><!-- .site-info -->
-    </div><!-- .inner -->
-</footer><!-- .site-footer -->
+            <h3 class="widget-author__title">{{ site.data.settings.author.author__name }}</h3>
+            {% if site.data.settings.author.author__bio %}
+            <p class="widget-author__bio">{{site.data.settings.author.author__bio}}</p>
+            {% endif %}
+          </div>
+        </div>
+
+        <div class="col col-2 col-m-12">
+          <div class="widget-footer widget-social">
+            <h3 class="widget-footer__title">Follow</h3>
+            {% if site.data.settings.social %}
+            <div class="social">
+              <ul class="social__list list-reset">
+                {% for social in site.data.settings.social %}
+                <li class="social__item">
+                  <i class="ion {{social.icon}}" style="background-color: {{social.color}};"></i>
+                  <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener" aria-label="{{social.label}} link">{{social.name | capitalize}}</a>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+            {% endif %}
+          </div>
+        </div>
+
+        <div class="col col-2 col-m-12">
+          <div class="widget-footer widget-nav">
+            <h3 class="widget-footer__title">Menu</h3>
+            <ul class="widget-nav__list list-reset">
+              {% for item in site.data.settings.footer__menu__settings.menu__items %}
+              <li class="widget-nav__item">
+                <a href="{{ item.url | relative_url }}" class="widget-nav__link">{{ item.title }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="footer__info">
+    <div class="container">
+      <div class="row">
+        <div class="col col-12">
+          <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.data.settings.title}}</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</footer>
+<!-- end footer -->

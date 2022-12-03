@@ -6,7 +6,7 @@ title:  "Why we can offer digital audio guides in offline mode without any app"
 description: "Museums often have a bad network coverage and cannot stream our digital audio guides. That's why we developed an offline mode that doesn't require downloading any app!"
 slug: "digital-audio-guides-tours-offline"
 date:   2018-06-14
-image: /images/posts/audioguide-nexo-nubart2.jpg
+image: /images/audioguide-nexo-nubart2.jpg
 tags: [audio tour, offline]
 langpath-es: /2018/01/03/audioruta-nubart-offline/
 langpath-de: /2018/06/14/digitale-audioguides-offline-ohne-netzabdeckung/
@@ -27,7 +27,7 @@ She also wanted to boost the local economy by selling our cards in local stores.
 ## The problem of natural sites without data coverage
 
 Noelia prepared a great script that we proofread and translated into English and French. We prepared the voice-over in these two languages and in Spanish and revised the maps to adapt them to the content of the audio tour. We also designed the card using Noelia's photos. 
-![Nubart Audio tour through the natural monuments of El Maestrazgo - Nexo Turismo y Cultura]({{site.baseurl}}/images/posts/audioguide-nexo-nubart2.jpg){: .center-image }
+![Nubart Audio tour through the natural monuments of El Maestrazgo - Nexo Turismo y Cultura]({{site.baseurl}}/images/audioguide-nexo-nubart2.jpg){: .center-image }
 
 Everything was going great until we asked her about the tweets.
 
@@ -75,7 +75,7 @@ Our offline mode also works well with our geolocation feature.
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
 
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
 <form action="../../../../../">
     <input type="submit" value="Request a sample here" />
 </form>

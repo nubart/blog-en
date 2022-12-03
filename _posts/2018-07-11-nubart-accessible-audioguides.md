@@ -6,7 +6,7 @@ title:  "Nubart's audio guides are accessible"
 description: "Nubart audioguides are accessible for visually or hearing impaired museum visitors"
 slug: "nubart-accessible-audioguides"
 date:   2018-07-11 
-image: /images/posts/accessibility-audioguides.jpg 
+image: /images/accessibility-audioguides.jpg 
 tags: [accessibility]
 langpath-es: /2018/07/09/audioquia-nubart-accesible/
 langpath-de: /2018/07/11/nubart-barrierefrei-zugaengliche-audioguides/
@@ -24,7 +24,7 @@ The concern to provide an easier experience to blind people when visiting museum
 former curator of the Sunderland Museum, invited the children of the Sunderland Council Blind School to *see* some of the collections of the
 Sunderland Museum through their hands. The success of the initiative encouraged him to extend this type of visit to blind adults as well.
 
-| ![Children feeling a walrus at the Sunderland Museum]({{site.baseurl}}/images/posts/accessibility-sunderland-museum.jpg) |
+| ![Children feeling a walrus at the Sunderland Museum]({{site.baseurl}}/images/accessibility-sunderland-museum.jpg) |
 |:--:|
 | *Tyne & Wear Archives & Museums* |
 
@@ -55,7 +55,7 @@ impaired.
 The QR codes of our Nubart cards are printed with a slight relief. In this way, blind people can detect their presence and location with their
 fingertips, which makes it easier to capture them using the QR code reader they have on their mobile phone.
 
-![QR code printed in relief to facilitate accessibility for visually impaired people at Nubart audioguides ]({{site.baseurl}}/images/posts/qr-code-nubart-visually-impaired.jpg)
+![QR code printed in relief to facilitate accessibility for visually impaired people at Nubart audioguides ]({{site.baseurl}}/images/qr-code-nubart-visually-impaired.jpg)
 {: .center-image }
 
 
@@ -124,7 +124,7 @@ according to your needs.
 
 #### <font color="blue">At Nubart we produce innovative audioguide cards</font>
 
-![Nubart's Audioguide]({{site.baseurl}}/images/posts/proceso-nubart.png){: .center-image }
+![Nubart's Audioguide]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
 <form action="../../../../../">
     <input type="submit" value="Request a sample here" />
 </form>

@@ -6,7 +6,7 @@ title:  "How to structure the content of an audio guide"
 description: "Digital audio guides (apps or PWAs) offer so many possibilities for integrating multimedia elements that it has become essential to think about how to structure the content."
 slug: "how-to-structure-audioguide"
 date:   2022-02-18
-image: /images/posts/structure-audioguide-title.jpg
+image: /images/structure-audioguide-title.jpg
 tags: [audio guides, structure, multimedia]
 langpath-es: /2022/02/17/como-crear-estructura-audioguia/
 langpath-de: /2020/02/22/struktur-audioguide/
@@ -41,11 +41,11 @@ For example, if a museum has five rooms on the ground floor, it may not make sen
 This principle also applies to sound tracks or multimedia elements. In most digital audio guides, clicking on a point of interest opens a new page that usually contains the image of the exhibit and an audio track, sometimes triggered by automatic playback and sometimes requiring a new click.
 Once the track has been played, the user must return to the listing to locate the next track and click on it, and so on with each point of interest along the route:
 
-![Traditional digital audio guide with too many clicks]({{site.baseurl}}/images/posts/structure-audioguide-clicking.png){: .center-image }
+![Traditional digital audio guide with too many clicks]({{site.baseurl}}/images/structure-audioguide-clicking.png){: .center-image }
 
 In our view, it would be desirable to reduce all these unnecessary clicks by offering **all tracks on the same scrollable page**, which is the most intuitive navigation method for older generations who are not digital natives:
 
-![Nubart digital audioguide with scrolling navigation]({{site.baseurl}}/images/posts/structure-audioguide-scrolling.png){: .center-image }
+![Nubart digital audioguide with scrolling navigation]({{site.baseurl}}/images/structure-audioguide-scrolling.png){: .center-image }
 
 # Facilitate customized *expansion* as well as *limitation* of audio guide content
 
@@ -71,11 +71,11 @@ The idea is to create broad sets of content in blocks or modules that are well d
 
 This way of organizing content is ideal for venues that have **several independent buildings or spaces**. For example, the Riotinto Mining Park in Huelva (Spain) consists of a museum, a train, a mine and a house, and in its digital audio guide we have assigned a separate module for each of these sites.
 
-![Audioguide by Nubart for the Riotinto Foundation museum in Huelva]({{site.baseurl}}/images/posts/structure-riotinto.jpg){: .center-image }
+![Audioguide by Nubart for the Riotinto Foundation museum in Huelva]({{site.baseurl}}/images/structure-riotinto.jpg){: .center-image }
 
 This modular structure is also the ideal option to separate contents thematically or chronologically. The most common case are museums with many exhibitions, both permanent and temporary. In such cases, each exhibition is assigned a separate module. For example, [the audio guide for the Albertina Museum in Vienna, Austria](https://www.nubart.eu/portfolio/albertina-audioguide.html){:target="_blank"}.
 
-![Nubart audio guide for the Albertina Museum in Vienna]({{site.baseurl}}/images/posts/structure-albertina.jpg){: .center-image }
+![Nubart audio guide for the Albertina Museum in Vienna]({{site.baseurl}}/images/structure-albertina.jpg){: .center-image }
 
 ## 2. **Thematic tags to customize content based on visitor's interests**
 
@@ -85,12 +85,12 @@ This is especially useful in audio guides for events such as **trade shows**, wh
 
 
 
-![Nubart audio guide for a trade show]({{site.baseurl}}/images/posts/structure-aluminium.jpg){: .center-image }
+![Nubart audio guide for a trade show]({{site.baseurl}}/images/structure-aluminium.jpg){: .center-image }
 
 It is also a perfect tool to audio guide **city tours** and support **city marketing**, as it allows tourists to choose the topics and activities that interest them most. In this guide to the city of Baden, Austria, users can select cultural, gastronomic and commercial sites, find the information related to each one and structure the tour according to their preferences:
 
 
-![Nubart audioguide for the city of Baden, Austria]({{site.baseurl}}/images/posts/structure-baden.jpg){: .center-image }
+![Nubart audioguide for the city of Baden, Austria]({{site.baseurl}}/images/structure-baden.jpg){: .center-image }
 
 Another use case for tags are **very large museums** that want to help visitors filter the high volume of available exhibits according to their personalized interests. This is the case for [the audio guide of the National Museum of Slovenia in Ljubljana](https://www.nubart.eu/portfolio/national-museum-slovenia-audioguide.html){:target="_blank"}, which uses tags to offer visitors the option of a 30-minute route with the highlights.
 
@@ -108,7 +108,7 @@ For this reason Nubart has created collapsible "more information" buttons. These
 
 For example, visitors to the [Dornier Museum in Friedrichshafen](https://www.nubart.eu/portfolio/dornier-audioguide.html){:target="_blank"} interested in the early days of the Zeppelin can use this drop-down to view an historical photo. Scrolling automatically collapses the button:
 
-![Nubart Audioguide for the Dornier Museum in Friedrichshafen]({{site.baseurl}}/images/posts/structure-dornier.jpg){: .center-image }
+![Nubart Audioguide for the Dornier Museum in Friedrichshafen]({{site.baseurl}}/images/structure-dornier.jpg){: .center-image }
 
 Instead of that photo, the drop-down button could also have [included other kinds of multimedia files](https://www.nubart.eu/multimedia-audioguide.html){:target="_blank"}.
 

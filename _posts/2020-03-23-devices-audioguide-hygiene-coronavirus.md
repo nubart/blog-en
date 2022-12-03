@@ -6,7 +6,7 @@ title:  "Audio guide devices, coronavirus and hygiene"
 description: "The coronavirus is going to transform many of our habits. What will happen in museums with the audio guide devices that are passed around?"
 slug: "devices-audioguide-hygiene-coronavirus"
 date:   2020-03-23
-image: /images/posts/cleaning-audioguide-devices-museum.jpg
+image: /images/cleaning-audioguide-devices-museum.jpg
 tags: [audio guides, hygiene, coronavirus]
 langpath-es: /2020/03/23/aparatos-audioguia-higienicos-coronavirus/
 langpath-de: /2020/03/23/audioguide-geraete-hygiene-coronavirus/
@@ -29,7 +29,7 @@ And besides: **cell phones are personal devices**. The data contained in our sma
 
 But now, think about audio guides. **An audio guide device in a museum is like a mobile phone that is passed from hand to hand many times a day and whose functionality requires to bring it close to the face**, either directly or through a headset. 
 
-![Woman holding an audio guide]({{site.baseurl}}/images/posts/woman-audioguide-face.jpg){: .center-image }
+![Woman holding an audio guide]({{site.baseurl}}/images/woman-audioguide-face.jpg){: .center-image }
 
 In our face are precisely the main routes of entry of the coronavirus into our bodies. 
 
@@ -39,7 +39,7 @@ Hygiene has always been a relevant factor when dealing with audio guide devices 
 
 The best venues are aware of this situation and instruct their employees to clean the audio guides before and after each use. 
 
-![Museum staff cleaning audio guide devices]({{site.baseurl}}/images/posts/cleaning-audioguide-devices-museum.jpg){: .center-image }
+![Museum staff cleaning audio guide devices]({{site.baseurl}}/images/cleaning-audioguide-devices-museum.jpg){: .center-image }
 
 However, museum visitors do not always know whether this cleaning has taken place or not. 
 
