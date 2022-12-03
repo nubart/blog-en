@@ -1,7 +1,8 @@
 ---
 layout: post 
 comments: true 
-published: true 
+published: true
+author: admin
 title:  Nubart's audio guides are accessible
 description: Nubart audioguides are accessible for visually or hearing impaired museum visitors
 slug: "nubart-accessible-audioguides"

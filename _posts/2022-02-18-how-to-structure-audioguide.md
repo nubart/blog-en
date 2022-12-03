@@ -7,7 +7,7 @@ description: Digital audio guides (apps or PWAs) offer so many possibilities for
 slug: "how-to-structure-audioguide"
 date:   2022-02-18
 image: /images/structure-audioguide-title.jpg
-tags: [audio guides, structure, multimedia]
+tags: [audio-guides, structure, multimedia]
 langpath-es: /2022/02/17/como-crear-estructura-audioguia/
 langpath-de: /2020/02/22/struktur-audioguide/
 featured: true

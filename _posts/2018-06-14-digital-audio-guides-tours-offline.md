@@ -8,7 +8,7 @@ description: "Museums often have a bad network coverage and cannot stream our di
 slug: "digital-audio-guides-tours-offline"
 date:   2018-06-14
 image: /images/audioguide-nexo-nubart2.jpg
-tags: [audio tour, offline]
+tags: [audio-guides, offline]
 langpath-es: /2018/01/03/audioruta-nubart-offline/
 langpath-de: /2018/06/14/digitale-audioguides-offline-ohne-netzabdeckung/
 featured:
