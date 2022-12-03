@@ -2,7 +2,8 @@
 layout: post
 comments: true
 published: true
-title:  "Why we can offer digital audio guides in offline mode without any app"
+author: admin
+title:  Why we can offer digital audio guides in offline mode without any app
 description: "Museums often have a bad network coverage and cannot stream our digital audio guides. That's why we developed an offline mode that doesn't require downloading any app!"
 slug: "digital-audio-guides-tours-offline"
 date:   2018-06-14
@@ -10,6 +11,7 @@ image: /images/audioguide-nexo-nubart2.jpg
 tags: [audio tour, offline]
 langpath-es: /2018/01/03/audioruta-nubart-offline/
 langpath-de: /2018/06/14/digitale-audioguides-offline-ohne-netzabdeckung/
+featured:
 ---
 
 Sometimes a problem is an opportunity in disguise. This is what we experienced long time ago when producing the audio tour to visit the natural monuments of El Maestrazgo (Teruel, Spain) for Nexo Turismo y Cultura. It was the origin of our offline digital audio guides for smartphones that work without wifi and without data coverage. Here's the story. 

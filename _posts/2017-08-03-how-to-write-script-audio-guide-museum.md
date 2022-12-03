@@ -11,6 +11,7 @@ image: '/images/woman-typing-writing-windows.jpg'
 tags: [audio-guides, script]
 langpath-es: /2017/07/29/como-escribir-guion-audioguia/ 
 langpath-de: /2018/06/10/wie-audioguide-museum-schreiben-skript/
+featured: true
 ---
 
 Some museums face the task of producing an audio guide for the first time and are not sure where to start.

@@ -2,14 +2,15 @@
 layout: post
 comments: true
 published: true
-title:  "We just launched the travelling audio guide"
-description: "With Nubart, audioguides can be sold in the museum shop as a postcard."
+title:  We just launched the travelling audio guide
+description: With Nubart, audioguides can be sold in the museum shop as a postcard.
 slug: "sell-travelling-audioguide"
 date:   2018-07-11
 image: /images/traveling-audioguide.jpg
 tags: [audio guides, postcard, travel, museum]
 langpath-es: /2019/11/07/vender-audioguia-postal-museo/
 langpath-de: /2018/07/11/reisender-audioguide-postkarte/
+featured: 
 ---
 
 

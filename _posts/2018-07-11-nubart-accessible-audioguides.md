@@ -2,14 +2,15 @@
 layout: post 
 comments: true 
 published: true 
-title:  "Nubart's audio guides are accessible"
-description: "Nubart audioguides are accessible for visually or hearing impaired museum visitors"
+title:  Nubart's audio guides are accessible
+description: Nubart audioguides are accessible for visually or hearing impaired museum visitors
 slug: "nubart-accessible-audioguides"
 date:   2018-07-11 
 image: /images/accessibility-audioguides.jpg 
 tags: [accessibility]
 langpath-es: /2018/07/09/audioquia-nubart-accesible/
 langpath-de: /2018/07/11/nubart-barrierefrei-zugaengliche-audioguides/
+featured: true
 ---
 
 Museums strive to be places that can be enjoyed by all citizens, including those with physical impairments. That is why at Nubart we have conceived
