@@ -29,7 +29,7 @@ collections:
     permalink: /:slug
   authors:
     output: true
-    permalink: /:name
+    permalink: /baseurl/:name
 
 # Pages Path
 defaults:
