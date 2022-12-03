@@ -8,7 +8,7 @@ description: Before doing research about the audience of your museum, you need t
 slug: "how-to-get-visitors-data-museum"
 date:   2017-12-08 
 image: /images/nubart-as-tool-to-collect-data-museum.jpg 
-tags: [visitor data, museums, audience-insights]
+tags: [visitor-data, museums, audience-insights]
 langpath-es: /2017/12/08/como-obtener-datos-visitantes-museo/
 langpath-de: /2018/06/25/museum-wie-kann-man-daten-besucher-erhalten/
 featured: true
