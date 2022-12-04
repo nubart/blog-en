@@ -2,7 +2,7 @@
 layout: post
 comments: true
 published: true
-author: rosa
+author: admin
 title:  How to structure the content of an audio guide
 description: Digital audio guides (apps or PWAs) offer so many possibilities for integrating multimedia elements that it has become essential to think about how to structure the content.
 slug: "how-to-structure-audioguide"
