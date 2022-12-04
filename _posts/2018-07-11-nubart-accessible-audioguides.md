@@ -26,9 +26,8 @@ The concern to provide an easier experience to blind people when visiting museum
 former curator of the Sunderland Museum, invited the children of the Sunderland Council Blind School to *see* some of the collections of the
 Sunderland Museum through their hands. The success of the initiative encouraged him to extend this type of visit to blind adults as well.
 
-| ![Children feeling a walrus at the Sunderland Museum]({{site.baseurl}}/images/accessibility-sunderland-museum.jpg) |
-|:--:|
-| *Tyne & Wear Archives & Museums* |
+![Children feeling a walrus at the Sunderland Museum]({{site.baseurl}}/images/accessibility-sunderland-museum.jpg){:loading="lazy"}
+*Photo by Tyne & Wear Archives & Museums*
 
 
 In a museum, accessibility for visitors with low vision does not depend solely on audio guides, but they are possibly one of the most important
