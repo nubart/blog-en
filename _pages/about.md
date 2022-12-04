@@ -12,5 +12,6 @@ Our cards are affordable and can be monetised. They also reach an amazing take-u
 
 Visit [our website]({{site.baseurl}}) if you would like to receive freesamples from real projects. 
 
+Subscribe below to our newsletter if you want to keep up to date with what we do. 
 
 ***
