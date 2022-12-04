@@ -116,7 +116,8 @@ incorporation of the texts would increase accessibility considerably at a very l
 
 Finally, here is a video with a visual demonstration of some of Nubart's applications for accessibility:
 
-<iframe src="https://player.vimeo.com/video/559591694" width="640" height="360" frameborder="0" allowfullscreen></iframe>{: .center-image }
+<p><iframe src="https://player.vimeo.com/video/559591694?h=559591694" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+
 
 Whatever your situation is, <a href="mailto:info@nubart.eu">write to us</a>. At Nubart we will analyze your case and will prepare a price quote
 according to your needs.
