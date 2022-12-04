@@ -56,7 +56,7 @@ impaired.
 The QR codes of our Nubart cards are printed with a slight relief. In this way, blind people can detect their presence and location with their
 fingertips, which makes it easier to capture them using the QR code reader they have on their mobile phone.
 
-![QR code printed in relief to facilitate accessibility for visually impaired people at Nubart audioguides ]({{site.baseurl}}/images/qr-code-nubart-visually-impaired.jpg){:loading="lazy"}
+![QR code printed in relief to facilitate accessibility for visually impaired people at Nubart audioguides ]({{site.baseurl}}/images/qr-code-nubart-visually-impaired.jpg){:loading="lazy"}{: .center-image }
 
 
 ### Audio descriptions of the exhibited objects

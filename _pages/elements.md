@@ -127,7 +127,7 @@ li {
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-![Man]({{site.baseurl}}/images/01-2.jpg)
+![Man]({{site.baseurl}}/images/main-cover.jpg)
 *Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)*
 
 ***
