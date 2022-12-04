@@ -29,7 +29,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Nubart produces multimedia-guide cards for museums, cities and other venues. <br>Always browser-based. <br>No app to download. <br>No extra hardware.
+  hero__title: Nubart produces multimedia-guide cards and tour guide systems for museums, cities and other venues. <br> Always browser-based. <ion-icon name="add-outline"></ion-icon> No app to download. <ion-icon name="add-outline"></ion-icon> No extra hardware.
 
 #-------------------------------
 # Blog Settings
