@@ -3,7 +3,7 @@ layout: post
 comments: true
 published: true
 title:  We just launched the travelling audio guide
-description: With Nubart, audioguides can be sold in the museum shop as a postcard.
+description: With Nubart, non-transferable audio guide cards can be sold in the museum shop as a postcard.
 slug: "sell-travelling-audioguide"
 date:   2018-07-11
 image: /images/travelling-audioguide-2.jpg
