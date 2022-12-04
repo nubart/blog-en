@@ -18,8 +18,6 @@ Museums strive to be places that can be enjoyed by all citizens, including those
 our card-shaped audio guides with an inclusive or universal design so that museums can also use them to inform visually or hearing impaired visitors
 about their exhibits. We'll tell you how.
 
-<!--more-->
-
 # Accessibility of audioguides for blind and partially sighted people
 
 The concern to provide an easier experience to blind people when visiting museums goes back a long way. As early as 1913, John Alfred Charlton Deas,

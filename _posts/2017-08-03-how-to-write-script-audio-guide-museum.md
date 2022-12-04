@@ -18,8 +18,6 @@ Some museums face the task of producing an audio guide for the first time and ar
 
 If you are one of them, and if you are looking for a straightforward audio guide that effectively offers explanations about pieces in a room, in several languages, perhaps the recommendations that follow will be useful, whether you prepare an audio guide together with us, or if you do it on your own.
 
-<!--more-->
-
 ## Choose the exhibits that you want to explain to your visitors
 
 Even if your museum is small, it will not be possible or desirable to provide explanations for all your pieces. Before you start writing the script, consider which objects are going to be the subject of a verbal explanation. To avoid overwhelming your visitors, the amount of information and length of audio clips should be limited.

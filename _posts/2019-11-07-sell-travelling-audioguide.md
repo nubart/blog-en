@@ -18,9 +18,8 @@ Paying to rent an audio guide in a museum and not having time to listen to more 
 
 The ideal solution would be to offer the visitor an audio guide that she can keep, and that is exactly what we have been doing for a long time in Nubart. 
 
-But today we're going to explain a new way of *selling* an audioguide that we didn't have before. 
+But today we're going to explain a new way of *selling* an audioguide that we didn't have before.
 
-<!--more-->
 # About the need to sell the audio guide
 
 A museum in Europe -the very old house of a famous musician- recently contacted us and told us about their case: 

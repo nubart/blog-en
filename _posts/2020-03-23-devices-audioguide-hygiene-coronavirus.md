@@ -19,7 +19,6 @@ Sooner or later this unprecedented crisis will be over and museums will reopen. 
 
 Everything points to the fact that it will be a long time before someone is willing to rest a previously passed audio guide device on their face.
 
-<!--more-->
 # Cell phones and hygiene
 
 Most of us know that smartphones have always been a surface with high bacterial and microorganism growth.  According to [a research by the University of Arizona](https://cals.arizona.edu/news/why-your-cellphone-has-more-germs-toilet){:target="_blank"}, a mobile phone has 10 times more bacteria than a toilet seat, and nine out of ten cell phones contain microorganisms that can potentially spread diseases. We hold our cell phone in our hands countless times a day, after touching many other potentially infected surfaces, such as public transportation grab bars, doorbells, or doorknobs. We use our device so often that trying to wash our hands before and after every single use is a futile endeavor. 

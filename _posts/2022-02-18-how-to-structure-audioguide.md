@@ -20,13 +20,9 @@ Most digital audio guides (whether apps or PWAs) also offer the ability to type 
 
 Here a few tips:
 
-
-
-<!--more-->
 # Organize the lists that make up an audio guide
 
 Normally an audio guide consists of a list of the points of interest along the route. In a digital audio guide, each item in that list contains a clickable link to access the corresponding audio track. In large and complex exhibition sites **it is convenient to provide a branched structure**, with each branch consisting of a separate list.
-
 
 
 The lists that structure the audio guide should **provide clarity and relate to the actual circumstances of the tour**. For example, if the exhibits are divided into two or three floors or two different buildings, it is advisable that the structure of the audio tour takes this into account, as this will help visitors to orient themselves.

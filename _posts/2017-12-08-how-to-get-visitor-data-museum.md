@@ -27,7 +27,6 @@ As you can see, even with the cutting edge technology airplanes have today, gett
 The same is true for museums (as well as galleries, fairs, parks, open-air tours or other attractions). Before you can win relevant insights into your
 audience and develop a strategy around them, you need to find a discrete tool to _obtain_ the data.
 
-<!--more-->
 
 ## The struggle to get visitor data
 
