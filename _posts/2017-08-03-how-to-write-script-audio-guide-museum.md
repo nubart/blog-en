@@ -1,4 +1,8 @@
 ---
+layout: redirected
+sitemap: false
+permalink: /2017/08/03/how-to-write-script-audio-guide-museum/
+redirect_to:  /how-to-write-script-audio-guide-museum/
 layout: post 
 comments: true 
 published: true
@@ -12,6 +16,8 @@ tags: [audio-guides, script]
 langpath-es: /2017/07/29/como-escribir-guion-audioguia/ 
 langpath-de: /2018/06/10/wie-audioguide-museum-schreiben-skript/
 featured: true
+
+
 ---
 
 Some museums face the task of producing an audio guide for the first time and are not sure where to start.
