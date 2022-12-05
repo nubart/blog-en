@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Nubart's Blog
-logo: # You can add own logo. For example "/images/logo.png".
+logo: /images/logo.png
 description: Nubart is a multimedia guide, accessed from a smartphone through a non-transferable card
 
 
