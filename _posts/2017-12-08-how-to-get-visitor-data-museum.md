@@ -1,4 +1,8 @@
 ---
+layout: redirected
+sitemap: false
+permalink: /2017/12/08/how-to-get-visitors-data-museum/
+redirect_to:  /how-to-get-visitors-data-museum/
 layout: post 
 comments: true 
 published: true

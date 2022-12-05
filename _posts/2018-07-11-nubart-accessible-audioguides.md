@@ -1,4 +1,8 @@
 ---
+layout: redirected
+sitemap: false
+permalink: /2018/07/11/nubart-accessible-audioguides/
+redirect_to:  /nubart-accessible-audioguides/
 layout: post 
 comments: true 
 published: true

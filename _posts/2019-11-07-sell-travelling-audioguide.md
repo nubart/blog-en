@@ -1,4 +1,8 @@
 ---
+layout: redirected
+sitemap: false
+permalink: /2019/11/07/sell-travelling-audioguide/
+redirect_to:  /sell-travelling-audioguide/
 layout: post
 comments: true
 published: true

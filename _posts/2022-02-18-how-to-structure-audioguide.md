@@ -1,4 +1,8 @@
 ---
+layout: redirected
+sitemap: false
+permalink: /2022/02/18/how-to-structure-audioguide/
+redirect_to:  /how-to-structure-audioguide/
 layout: post
 comments: true
 published: true

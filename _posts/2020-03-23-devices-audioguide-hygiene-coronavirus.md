@@ -1,4 +1,8 @@
 ---
+layout: redirected
+sitemap: false
+permalink: /2020/03/23/devices-audioguide-hygiene-coronavirus/
+redirect_to:  /devices-audioguide-hygiene-coronavirus/
 layout: post
 comments: true
 published: true
