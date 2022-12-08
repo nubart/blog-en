@@ -6,10 +6,32 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description }}{% endif %}'>
 
+  <!-- Start of hreflang >>> -->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.data.settings.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <!-- <link rel="alternate" type="application/rss+xml" title="{{ site.data.settings.title | escape }}" href="{{ "/feed.xml" | relative_url }}"> -->
 
-  <!-- Twitter Card -->
+ <link rel="alternate" hreflang="en" href="{{site.url}}{{site.baseurl}}{{page.url}}" />
+ {% if page.layout == 'post' %}
+ {% if page.langpath-es %}<link rel="alternate" hreflang="es" href="{{site.url}}{{site.alt-baseurl-es}}{{page.langpath-es}}" /> {% endif %}
+ {% if page.langpath-de %}<link rel="alternate" hreflang="de" href="{{site.url}}{{site.alt-baseurl-de}}{{page.langpath-de}}" /> {% endif %}
+ {% else %}
+ <link rel="alternate" hreflang="es" href="{{site.url}}{{site.alt-baseurl-es}}{{page.url}}" />
+ <link rel="alternate" hreflang="de" href="{{site.url}}{{site.alt-baseurl-de}}{{page.url}}" />
+ {% endif %}
+ <!-- <<< End of hreflang -->
+
+  <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/2430134.js"></script>
+  <!-- End of HubSpot Embed Code-->
+
+  <!-- Leadfeeder  -->
+  <script>
+     (function(ss,ex){ window.ldfdr=window.ldfdr||function(){(ldfdr._q=ldfdr._q||[]).push([].slice.call(arguments));}; (function(d,s){ fs=d.getElementsByTagName(s)[0]; function ce(src){ var cs=d.createElement(s); cs.src=src; setTimeout(function(){fs.parentNode.insertBefore(cs,fs)},1); }; ce('https://sc.lfeeder.com/lftracker_v1_'+ss+(ex?'_'+ex:'')+'.js'); })(document,'script'); })('Xbp1oaEBQQn8EdVj');
+
+</script>
+  <!-- End of Leadfeeder  -->
+
+<!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.url == "/" %}{{ site.data.settings.title }}{% else %}{{ page.title }} – {{ site.data.settings.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.url == "/" %}{{ site.data.settings.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
