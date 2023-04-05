@@ -21,6 +21,10 @@ menu__settings:
       url: '/'
     - title: 'About Nubart'
       url: 'https://www.nubart.eu/'
+    - title: 'Audio guides'
+      url: 'https://www.nubart.eu/audio-guides.html'
+    - title: 'Tour guide system'
+      url: 'https://www.nubart.eu/live-guide-group-guiding-system.html'
       #     - title: 'Authors'
 #       url: '/authors/'
 

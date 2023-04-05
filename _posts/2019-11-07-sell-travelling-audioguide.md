@@ -11,7 +11,7 @@ description: With Nubart, non-transferable audio guide cards can be sold in the 
 slug: "sell-travelling-audioguide"
 date:   2018-07-11
 image: /images/travelling-audioguide-2.jpg
-tags: [audio-guides, postcard, travel, museum]
+tags: [audio-guides, postcard, museum]
 langpath-es: /2019/11/07/vender-audioguia-postal-museo/
 langpath-de: /2018/07/11/reisender-audioguide-postkarte/
 featured: 

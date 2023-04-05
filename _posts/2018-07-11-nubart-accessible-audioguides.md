@@ -17,7 +17,6 @@ langpath-es: /2018/07/09/audioquia-nubart-accesible/
 langpath-de: /2018/07/11/nubart-barrierefrei-zugaengliche-audioguides/
 featured: true
 ---
-
 Museums strive to be places that can be enjoyed by all citizens, including those with physical impairments. That is why at Nubart we have conceived
 our card-shaped audio guides with an inclusive or universal design so that museums can also use them to inform visually or hearing impaired visitors
 about their exhibits. We'll tell you how.
