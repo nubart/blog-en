@@ -65,14 +65,7 @@ pieces? It is very special to hear the voice of the artist while you admire his 
 visited, why not ask a very brief explanation about a piece by this specialist and add it?
 
 You can also do this with the curator of an exhibition. Curators sometimes go unnoticed by the general public and many are grateful for the
-opportunity to provide their particular point of view on their conception of the exhibition or on the choice of a particular work. We did this with
-Amador Vega, curator
-of [The Thinking Machine: Ramón Llull and the "ars combinatoria"](http://www.cccb.org/en/exhibitions/file/the-thinking-machine/223672){:target="_blank"}
-at the Centre de Cultura Contemporània de Barcelona (CCCB) and it was a success. His wise contributions complemented and greatly enriched the more
-conventional audio tracks we also offered.
-
-![Nubart Audio Guide for 'The Thinking Machine: Ramon Llull and the Ars Combinatoria' (CCCB, Barcelona) enriched with comments by Amador Vega]({{site.baseurl}}/images/audioguide-llull-cccb.jpg)
-{: .center-image }
+opportunity to provide their particular point of view on their conception of the exhibition or on the choice of a particular work.
 
 In the case of temporary exhibitions, time is short and it is not always possible to generate content beyond the posters for the exposition.
 Especially in that case, a significant added value for the audience of your audio guide can be direct testimonials, which are easy and quick to
@@ -81,7 +74,7 @@ unperfect recording quality.
 
 ## Remember: you are writing for listeners, not for readers!
 
-Many museums plan to create an audio guide only to provide explanations in other languages ​​and to satisfy foreign visitors. Some of them are tempted
+Many museums plan to create an audio guide only to provide explanations in other languages and to satisfy foreign visitors. Some of them are tempted
 to use the existing descriptive text on the walls of the rooms as a script.
 
 However, most likely at least half of a museum’s visitors are from the same country as the museum. An audio guide not only fulfills the purpose of
@@ -126,23 +119,8 @@ not exceed the time it would take to visit the exhibition without the audio guid
 a good guiding measure for the ideal length of an audio guide is to divide that time in half. So if your visitors usually spend an hour in your
 museum, your audio guide could have a total duration of 30 minutes.
 
-We believe that you, the curator, are the person who knows your museum best and that you are most appropriate person to collect the relevant
-information about each piece and put it in writing for your audio guide. (However, if you want us to take care of the script as well, we can do it:
-ask us for a quote!) We (Nubart) will review the script that you propose and will advise you on possible adaptations or improvements. Our standard
-rates cover the translation of your script into other languages and professional speaking, so everything else will be taken care of.
-
-To go deeper into the subject and also learn how to improve your script even more by adding verbal descriptions for people who are blind or have low
-vision, don't
-miss [this great article](http://www.artbeyondsight.org/mei/verbal-description-training/writing-verbal-description-for-audio-guides/){:target="_blank"}
-by Lou Giansante.
-
 Agree or disagree with some of these points? Feel like adding something more? Leave us a comment or <a href="mailto:info@nubart.eu">write to us</a>.
 
 ***
 
-#### <font color="blue">At Nubart we produce innovative audioguide cards</font>
-
-![Nubart's Audioguide as a card]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
-<form action="../../../../../">
-    <input type="submit" value="Request a sample here" />
-</form>
+[![Nubart's Audioguide as a card]({{site.baseurl}}/images/banner-blog-en.png)](../../../../../){: .center-image }

@@ -25,6 +25,8 @@ menu__settings:
       url: 'https://www.nubart.eu/audio-guides.html'
     - title: 'Tour guide system'
       url: 'https://www.nubart.eu/live-guide-group-guiding-system.html'
+    - title: 'Our customers'
+      url: 'https://www.nubart.eu/nubart-clients-projects.html'
       #     - title: 'Authors'
 #       url: '/authors/'
 
@@ -75,6 +77,9 @@ footer__menu__settings:
       url: 'https://www.nubart.eu/audio-guides.html'
     - title: 'Tour guide system'
       url: 'https://www.nubart.eu/live-guide-group-guiding-system.html'
+    - title: 'Our customers'
+      url: 'https://www.nubart.eu/nubart-clients-projects.html'
+
       #    - title: 'Authors'
   #      url: '/authors/'
 
