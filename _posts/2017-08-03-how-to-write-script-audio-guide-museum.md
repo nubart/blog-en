@@ -72,7 +72,7 @@ Especially in that case, a significant added value for the audience of your audi
 obtain. If there is absolutely no other option, you can even record them on the phone: the authenticity of having the original voice will beat
 unperfect recording quality.
 
-## Remember: you are writing for listeners, not for readers!
+## Remember to write for listeners, not for readers!
 
 Many museums plan to create an audio guide only to provide explanations in other languages and to satisfy foreign visitors. Some of them are tempted
 to use the existing descriptive text on the walls of the rooms as a script.
