@@ -77,11 +77,6 @@ Even if a vaccine or a definitive cure for the coronavirus is found very soon, g
 
 The only alternative is through **audioguides that the visitor can keep** instead of rental, or BYOD-digital solutions (native Apps or web-apps).
 
-
-
 ***
 
-
-<form action="../../../../../">
-    <input type="submit" value="Visit our website" />
-</form>
+[![Nubart's Audioguide as a card]({{site.baseurl}}/images/banner-blog-en.png)](../../../../../){: .center-image }

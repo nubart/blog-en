@@ -118,12 +118,7 @@ Nubart’s in-house developed CMS for audio guides is highly flexible and can re
 
 Tell us what contents you need to organize in your audio guide, and we will be happy to help you find the most convenient structure for your venue.
 
-
 ***
 
-
-
-<form action="../../../../../">
-   <input type="submit" value="Request free samples of Nubart cards on our website" />
-</form>
+[![Nubart's Audioguide as a card]({{site.baseurl}}/images/banner-blog-en.png)](../../../../../){: .center-image }
 

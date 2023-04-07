@@ -113,9 +113,4 @@ Maybe in the specific case of your museum, an audio guide is not so important, b
 
 ***
 
-#### <font color="blue">At Nubart we produce innovative audioguide cards</font>
-
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
-<form action="../../../../../">
-    <input type="submit" value="Request a sample here" />
-</form>
+[![Nubart's Audioguide as a card]({{site.baseurl}}/images/banner-blog-en.png)](../../../../../){: .center-image }

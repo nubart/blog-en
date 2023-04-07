@@ -80,13 +80,6 @@ Good idea, right? :)
 
 If you would like to receive a sample of *The traveling audio guide* or receive further explanations, please <a href="mailto:info@nubart.eu">write to us</a>.
 
-
 ***
 
-#### <font color="blue">At Nubart we produce innovative audioguide cards</font>
-
-
-![Nubart's Audioguide als Kärtchen]({{site.baseurl}}/images/proceso-nubart.png){: .center-image }
-<form action="../../../../../">
-    <input type="submit" value="Request a sample here" />
-</form>
+[![Nubart's Audioguide as a card]({{site.baseurl}}/images/banner-blog-en.png)](../../../../../){: .center-image }
