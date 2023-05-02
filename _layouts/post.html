@@ -121,7 +121,7 @@ layout: default
         <span class="post__nav post__nav__prev">Older post</span>
         <h2 class="post__nav__title"><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
         <p class="post__nav__excerpt">
-          {% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}
+          {% if page.previous.description %}{{ page.previous.description }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}
         </p>
       </div>
     </div>
@@ -133,7 +133,7 @@ layout: default
         <span class="post__nav post__nav__next">Newer post</span>
         <h2 class="post__nav__title"><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
         <p class="post__nav__excerpt">
-          {% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}
+          {% if page.next.description %}{{ page.next.description }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}
         </p>
       </div>
       <a href="{{page.next.url}}" class="next__image">
