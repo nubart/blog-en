@@ -27,8 +27,8 @@ menu__settings:
       url: 'https://www.nubart.eu/live-guide-group-guiding-system.html'
     - title: 'Our customers'
       url: 'https://www.nubart.eu/nubart-clients-projects.html'
-      #     - title: 'Authors'
-#       url: '/authors/'
+    - title: 'Authors'
+      url: '/authors/'
 
 
 
