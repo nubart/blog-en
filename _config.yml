@@ -27,9 +27,9 @@ collections:
   posts:
     output: true
     permalink: /:slug
-    # authors:
-    #  output: true
-  #   permalink: /blog-en/:name
+  authors:
+    output: true
+    permalink: /:name
 
 # Pages Path
 defaults:
