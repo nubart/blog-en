@@ -9,7 +9,7 @@ description: "Audio guides for children need to be designed quite differently th
 slug: "how-to-write-audioguide-for-children"
 date:   2023-04-25
 image: /images/audioguide-children.jpg
-tags: [audioguide, kinder]
+tags: [audio-guides, children]
 langpath-es: /2023/04/25/como-audioguia-infantil-ninos/
 langpath-de: /2023/04/25/audioguide-kinder-schreiben/
 featured: true
