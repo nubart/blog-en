@@ -131,7 +131,7 @@ layout: default
     <div class="post__next">
       <div class="next__box">
         <span class="post__nav post__nav__next">Newer post</span>
-        <h2 class="post__nav__title"><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
+        <h2 class="post__nav__title"><a href="{{ site.baseurl }}/{{page.next.url}}">{{page.next.title}}</a></h2>
         <p class="post__nav__excerpt">
           {% if page.next.description %}{{ page.next.description }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}
         </p>
