@@ -119,7 +119,7 @@ layout: default
       </a>
       <div class="prev__box">
         <span class="post__nav post__nav__prev">Older post</span>
-        <h2 class="post__nav__title"><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
+        <h2 class="post__nav__title"><a href="{{ site.baseurl }}/{{page.previous.url}}">{{page.previous.title}}</a></h2>
         <p class="post__nav__excerpt">
           {% if page.previous.description %}{{ page.previous.description }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}
         </p>
