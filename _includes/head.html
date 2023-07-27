@@ -8,8 +8,6 @@
 
   <!-- Start of hreflang -->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-<link rel="alternate" type="application/rss+xml" title="{{ site.data.settings.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-
 
  <link rel="alternate" hreflang="en" href="{{site.url}}{{site.baseurl-en}}{{page.url}}" />
  {% if page.layout == 'post' %}
@@ -18,6 +16,7 @@
  {% else %}
  <link rel="alternate" hreflang="es" href="{{site.url}}{{site.alt-baseurl}}{{page.url}}" />
  <link rel="alternate" hreflang="de" href="{{site.url}}{{site.alt-baseurl-de}}{{page.url}}" />
+ <link rel="alternate" hreflang="en" href="{{site.url}}{{site.alt-baseurl-en}}{{page.url}}" />
  {% endif %}
  <!-- <<< End of hreflang -->
 
