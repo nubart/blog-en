@@ -9,10 +9,10 @@
   <!-- Start of hreflang -->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
- <link rel="alternate" hreflang="en" href="{{site.url}}{{site.baseurl-en}}{{page.url}}" />
+ <link rel="alternate" hreflang="en" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
  {% if page.layout == 'post' %}
-    {% if page.langpath-en %}<link rel="alternate" hreflang="en" href="{{site.url}}{{site.alt-baseurl-en}}{{page.langpath}}" /> {% endif %}
- {% if page.langpath-es %}<link rel="alternate" hreflang="es" href="{{site.url}}{{site.alt-baseurl}}{{page.langpath}}" /> {% endif %}
+    {% if page.langpath-en %}<link rel="alternate" hreflang="en" href="{{ page.url | replace:'index.html','' | absolute_url }}" /> {% endif %}
+ {% if page.langpath-es %}<link rel="alternate" hreflang="es" href="{{site.url}}{{site.alt-baseurl-es}}{{page.langpath}}" /> {% endif %}
  {% if page.langpath-de %}<link rel="alternate" hreflang="de" href="{{site.url}}{{site.alt-baseurl-de}}{{page.langpath-de}}" /> {% endif %}
  {% else %}
  <link rel="alternate" hreflang="es" href="{{site.url}}{{site.alt-baseurl-es}}{{page.url}}" />
