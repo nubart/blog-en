@@ -9,7 +9,7 @@ image: '/images/main-cover.jpg'
 
 Our cards are affordable and can be monetised. They also reach an amazing take-up rate. We provide usage stats, anonymous data about your audience and an easy interface pefect for digitally unsavvy visitors.
 
-Visit [our website](https://www.nubart.eu/) if you would like to receive free samples from real projects. 
+Visit [our website](https:/www.nubart.eu/) if you would like to receive free samples from real projects. 
 
 Subscribe below to our newsletter if you want to keep up to date with what we do. 
  
