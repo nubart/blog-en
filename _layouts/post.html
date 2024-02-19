@@ -103,7 +103,7 @@ layout: default
       </ul>
     </div>
 
-    {% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == true %}
+    {% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == false %}
       {% include disqus-comments.html %}
     {% endif %}
   </article>
