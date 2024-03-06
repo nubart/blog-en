@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /blog/2019/11/07/sell-travelling-audioguide/
+permalink: /2019/11/07/sell-travelling-audioguide/
 ---
 
 <!DOCTYPE html>
