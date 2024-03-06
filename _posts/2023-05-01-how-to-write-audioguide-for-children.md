@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /blog/2023/04/25/how-to-write-audioguide-for-children/
+permalink: /2023/04/25/how-to-write-audioguide-for-children/
 ---
 
 <!DOCTYPE html>
@@ -11,3 +11,5 @@ permalink: /blog/2023/04/25/how-to-write-audioguide-for-children/
 <body>
 </body>
 </html>
+
+---
