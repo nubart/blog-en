@@ -27,8 +27,8 @@ menu__settings:
       url: 'https://www.nubart.eu/live-guide-group-guiding-system.html'
     - title: 'Our customers'
       url: 'https://www.nubart.eu/nubart-clients-projects.html'
-    - title: 'Authors'
-      url: '/authors/'
+      #    - title: 'Authors'
+    #    url: '/authors/'
 
 
 
@@ -39,8 +39,8 @@ menu__settings:
 
 #-------------------------------
 # Blog Settings
-blog:
-  blog__title: Other articles
+  # blog:
+  #  blog__title: Other articles
   #   blog__description: Find out how to set up a successful audio guide
 
 #-------------------------------
@@ -116,4 +116,4 @@ disqus:
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-88444319-1 # Add your GA Tracking Id
+# google-analytics: UA-88444319-1 # Add your GA Tracking Id
